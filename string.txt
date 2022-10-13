@@ -1,0 +1,149 @@
+1.2.1. Variety name:   Washera (353*Key muri)(RIL 29)
+1.2.1.1. Year of release:   2019
+1.2.1.2.  Breeder/Maintainer:  Adet ARC/ARARI/
+1.2.2. Variety name:   Jitu (Acc. DZ-01-256)
+1.2.2.1. Year of release:   2019
+1.2.2.2.  Breeder/Maintainer:  Bako ARC/ORARI/
+1.2.3. Variety name:   Mena (DZ-01-354 X DZ-CR-37-131))
+1.2.3.1. Year of release:   2019
+1.2.3.2.  Breeder/Maintainer:  Sirinka ARC/ARARI/
+1.2.4. Variety name:   Bora (DZ- CR-387 X 3774-13 (RIL No.120B)
+1.2.4.1. Year of release:   2019
+1.2.4.2.  Breeder/Maintainer:  Debre Zeit ARC/EIAR/
+1.2.5. Variety name:   Ebba (Kay muri x 3774-13)(RIL No.18)
+1.2.5.1. Year of release:   2019
+1.2.5.2.  Breeder/Maintainer:  Debre Zeit ARC/EIAR
+1.2.6. Variety name:   Abay (Acc#225931)
+1.2.6.1. Year of release:   2018
+1.2.6.2. Breeder/Maintainer:  Adet ARC/ARARI/
+1.2.7. Variety name:   DURSI (Acc.236952)
+1.2.7.1. Year of release:   2018
+1.2.7.2. Breeder/Maintainer:  Bako ARC/ORARI/
+1.2.8. Variety name:   Hiber-1( DZ-01-974* P1222988)
+1.2.8.1. Year of release:   2017
+1.2.8.2. Breeder/Maintainer:  Adet ARC/ARARI/4 5
+1.2.9. Variety name:   Areka-1(Dz-01-974 xDz -01-2788)
+1.2.9.1. Year of release:   2017
+1.2.9.2. Breeder/Maintainer:  Areka ARC/SRARI/
+1.2.10. Variety name:   Flagot (Brown color)[DZ- Cr-442 (RIL No. 77C )]
+1.2.10.1. Year of release:   2017
+1.2.10.2. Breeder/Maintainer:  Debre Zeit ARC/EIAR
+1.2.11. Variety name:   Tesfa  [ D Z - Cr-457 (RIL .181)]
+1.2.11.1. Year of release:   2017
+1.2.11.2. Breeder/Maintainer:  Debre Zeit ARC/EIAR
+1.2.12. Variety name:   Negus    [ D Z - Cr-438 (RIL No. 91A)]
+1.2.12.1. Year of release:   2017
+1.2.12.2. Breeder/Maintainer:  Debre Zeit ARC/EIAR
+1.2.13. Variety name:   Dagem    [ D Z - Cr-438 (RIL No. 91A)]
+1.2.13.1 . Year of release:   2016
+1.2.13.2. Breeder/Maintainer:  Debre Zeit ARC/EIAR
+1.2.14. Variety name:   Abola (Quncho x Key)
+1.2.14.1. Year of release:   2015
+1.2.14.2. Breeder /Maintainer:  Adet ARC /AARC/
+1.2.15. Variety:    Kora    DZ -Cr-438 (RIL No. 133B)]
+1.2.15.1 Year of release:   2014
+1.2.15.2 . Breeder/Maintainer:  DZARC/EIAR
+1.2.16. Variety:    Worekiyu (214746A)
+1.2.16.1 . Year of release:   2014
+1.2.16.2. Breeder /Maintainer: Sirinka ARC/ARARI/
+1.2.17. Variety:    Boset [DZ- Cr-409(RIL-50d )]
+1.2.17.1 Year of release:   2012
+1.2.17.2 Breeder /Maintainer:  DZARC/EIAR
+1.2.18. Variety:  Lakech (RIL 273)
+1.2.18.1 Year of release:   2009
+1.2.18.2 Breeder /Maintainer: Sirinka ARC/ARARI/
+1.2.19. Variety:    Simada
+DZ- Cr-385 (RIL 295)
+1.2.19.1  Year of release:   2009
+1.2.19.2 Breeder /Maintainer: DZARC/EIAR
+1.2.20. Variety:    Kena (23-Tafi-Adi-72)
+1.2.20.1 . Year of Release:  2008
+1.2.20.2 . Breeder /Maintainer:  Bako ARC
+1.2.21. Variety:     Etsub ( Dz-01-3186)
+1.2.21.1 . Year of release :   2008
+1.2.21.2 . Breeder/Maintainer:  Adet ARC
+1.2.22. Variety:    Gemechis
+DZ-Cr-387 (RIL-127)
+1.2.22.1 . Year of release:   2007
+1.2.22.2 . Breeder/Maintainer:   MARC/EIAR
+1 2.23.    Varieties:     Mechare (Acc. 205953)
+1.2.23.1. Year of release:   2007
+1.2.23.2 . Breeder/Maintainer:   SRARC/ARARI
+1.2.24. Variety:    Quncho Dz-Cr-387 (RIL-355)
+1.2.24.1 Year of release:   2006
+1.2.24.2  Breeder/Maintainer:   DzARC/EIAR
+1.2.25.   Variety:         Amarach- (Ho- Cr-136)
+1.2.25.1 . Year of release:   2006
+1.2.25.2 . Breeder/Maintainer:  DzARC/EIAR
+1.2.26. Variety :     Guduru- (DZ-01-1880)
+1.2.26.1 . Year of release:   2006
+1.2.26.2 . Breeder/Maintainer:  BARC/OARI
+1.2.27.   Variety:    Dima- (DZ-01-2423)
+1.2.27.1 . Year of release:   2005
+1.2.27.2 . Breeder/Maintainer:  ADARC/ARARI
+1.2.28. Variety :     Yilmana (DZ-01-1868)
+1.2.28.1. Year of release:   2005
+1.2.28.2. Breeder/Maintainer:   ADARC/ARARI
+1.2.29.   Variety:    Dega-Tef (DZ-01-2675)
+1.2.29.1 . Year of release:  2005
+1.2.29.2 . Breeder/Maintainer:   DZARC/EIAR
+1.2.30.    Variety:   Gimbichu (DZ-01-899)
+1.2.30.1 . Year of release:   2005
+1.2.30.2 . Breeder/Maintainer:  DZARC/EIAR
+1.2.31.   Variety:    Zobel (DZ-01-1821)
+1.2.31.1 . Year of releas e:   2005
+1.2.31.2 . Breeder/Maintainer  SRARC/ARARI
+1.2.32.   Variety:     Genete ( DZ-01-146)
+1.2.32.1 . Year of release:   2005
+1.2.32.2 . Breeder/Maintainer:   SRARC/ARARI
+1.2.33.    Variety:    Ajora (PGRC/E 205396)
+1.2.33.1 . Year of release:     2004
+1.2.33.2 . Breeder/Maintainer:   ARARC/SRARI
+1.2.34.    Variety:      Gola (DZ-01-2054)
+1.2.34.1 . Year of release:    2003
+1.2.34.2 . Breeder/Maintainer:    SRARC/ARARI
+1.2.35.    Variety:     Key Tena (Dark brown) (DZ-01-1681)
+1.2.35.1 . Year of release:     2002
+1.2.35.2 . Breeder/Maintainer:    DZARC/EIAR
+ 1.2.36.    Variety:     Koye ( DZ-01-1285)
+1.2.36.1 . Year of release:     2002
+1.2.36.2 . Breeder/Maintainer:  DZARC/EIAR
+1.2.37.    Variety:     Gerado (DZ-01-1281)
+1.2.37.1 . Year of release:    2002
+1.2.37.2 . Breeder/Maintainer:   DZARC/EIAR
+1.2.38.    Variety:    Ambo Toke (DZ-01-1278)
+1.2.38.1 . Year of release:        1999/00
+1.2.38.2 . Breeder/Maintainer:   HARC/EIAR
+1.2.39.   Variety:    Holetta Key (Brown color) (DZ-01-2053)
+1.2.39.1 . Year of release:   1998/99
+1.2.39.2.   Breeder/Maintainer:   HARC/EIAR
+1.2.40.   Variety:     Dukem (DZ-01-974)
+1.2.40.1 . Year of release:   1995
+1.2.40.2 . Breeder / Maintainer:  DZARC/EIAR
+1.2.41.   Variety:                  Ziquala (DZ- Cr-358)
+1.2.41.1 . Year of release:            1995
+1.2.41.2 . Breeder/ Maintainer:      DZARC/EIAR
+1.2.42.    Variety:                        Gibe (DZ- Cr-255)
+1.2.42.1 . Year of release:            1993
+1.2.42.2 . Breeder/ Maintainer:       DZARC/EIAR
+1.2.43.    Variety:                    Tseday (DZ- Cr-37)
+1.2.43.1 . Year of release:           1984
+1.2.43.2 . Breeder/ Maintainer:  DZARC/EIAR
+1.2.44.   Variety :          DZ-Cr-82
+1.2.44.1 . Year of release:        1982
+1.2.44.2 . Breeder / Maintainer:  DZARC/EIAR
+1.2.45.    Variety:        DZ-Cr-44
+1.2.45.1 . Year of release:       1982
+1.2.45.2 . Breeder / Maintainer:   DZARC/EIAR
+1.2.46.   Variety:              Magna (DZ-01-196)
+1.2.46.1 . Year of release:           1978
+1.2.46.2 . Breeder/Maintainer:    DZARC/EIAR
+1.2.47.    Variety:      DZ-01-787
+1.2.47.1 . Year of release:     1978
+1.2.47.2 . Breeder/ Maintainer:        DZARC/EIAR
+1.2.48.    Variety:              Enatit (DZ-01-354)
+1.2.48.1 . Year of release:        1970
+1.2.48.2 . Breeder / Maintainer:   DZARC/EIAR
+1.2.49.   Variety:         DZ-01-99
+1.2.49.1 . Year of release:        1970
+1.2.49.2 . Breeder / Maintainer:    DZARC/EIAR
