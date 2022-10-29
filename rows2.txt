@@ -1,0 +1,251 @@
+/usr/bin/python3.10 /home/mint/Documents/ideaProjects/untitled2/toclass.py
+
+Adaptation area
+Seed rate (kg/ha)
+Spacing(cm)
+Planting date
+Fertilizer rate(kg/ha)
+Days to flowering
+Days to maturity
+Plant height(cm)
+1000 seed weight (g)
+Seed color
+Growth habit
+Panicle type
+Crop pest reaction*
+Grain yield (qt/ha)
+Adaptation Area
+Spacing (cm)
+Days to heding
+Inflorescence compactness
+
+Inflorescence compactness
+Seed rate(kg/ha)
+Days to heading
+1000 seed weight(g)
+Finger length(Cm)
+Finger per ear
+Finger type
+Growth  habit
+Crop pest  reaction*
+Yield (qt/ha)
+Adaptation Areas
+Fertilizer rate (kg/ha)
+Plant height (cm)
+1000 seed weight(gm)
+Seed  color
+Row type
+Crop pest reaction
+Yield (qt/ha);
+
+Grain and malt quality
+
+1000 kernel weight(g)
+1000 seed weight (gm)
+Flower color
+Cotyledon Color
+Pod color
+Adaptation areas
+Seed rate (kg/ha)   Ranges over 60 -95 Kg
+
+Plating date
+1000 seed weight (g)  19-29 on average 17
+
+Seed coat color
+Garin size
+Yield (qt/ha)
+
+Seed rate (kg/ha)   25-30 (for raw planting)
+
+Spacing (Cm)
+100 seed weight (g)  14.17
+
+Number of seeds per pod
+Number of pods per plant
+Cooking quality
+Seed rate (kg/ha)   25-30
+
+100 seed weight (g)  16.17
+
+Seed rate (kg/ha)
+
+Fertilizer rate (kg/ha)
+
+Days to flowering   43
+
+Days to maturity   96
+
+100 seed weight (g)  46.4
+
+Seed market class
+Pods per plant
+Seeds per pods
+Leaf color
+Crop pest reaction *
+
+Yield (q/ha)
+
+Seed rate (kg ha-1)
+Fertilizer rate (kg ha-1)
+Days to 50% flowering
+Days to 95% maturity
+Seed shape
+Pubescence color
+Hilum color
+Leaf shape
+100 seed weight (g)
+Oil content (%)
+Protein content (%)
+Maturity group
+Disease reaction*
+Yield (q/ha-1)
+Seed size
+Seed coat luster
+Number of pods plant-1
+Number of seeds pod-1፡ 3
+
+Leaf size
+Number of seeds pod-1 3
+
+Adaption area
+Fertilizer rate (kg /ha)
+1000seed weight
+Oil content(%)   40
+
+Seeding rate(tubers/ha)
+Spacing(Cm)
+Growth habit;  Erect
+
+Tuber shape
+Eye depth;   Shallow
+
+Tuber color
+Fresh color
+Number of stems/ plant
+Number of tubers /hill
+Dry matter (DM) content (%) 22.08
+
+Iron content  (mg/Kg) DW 17.29
+
+Zinc content  (mg/Kg) DW 13.32
+
+Yield(qt/ha)
+
+Eye depth; Shallow-medium
+
+Dry matter (DM) content (%) 24.30
+
+Specific gravity (SG)
+
+Frying suitability test
+
+Eye depth;   Very Shallow
+
+Seed rate(seeds/ha)
+Fertilizer(kg/ha)
+
+Leaf coverage
+Growth habit   Determinate
+
+Stem strength
+Fruit number per cluster
+Fruit shape   Obviate
+
+Fruit size (gm)
+Cracks
+Color before maturity
+Color of ripen fruit skin
+Color of fruit flesh
+Fruit firminess
+shelf life (days)
+Fruit quality
+
+Crop pest reaction*
+
+Total yield in qt/ha
+
+Planting season
+Type
+Days to bulb maturity
+Bulb diameter (cm)
+Bulb size (gm)
+Bulb length (cm)
+Bulb color
+Bulb flesh color
+Pungency
+Bulb qulity/accepteblity
+Bulu yield (qt/ha)  -
+
+No new variety  released  in 2020
+
+Planting time
+Seed rate(Kg/ha)
+Days to maturity(green pods)
+Days to maturity (dry pods)
+Average green pod wieght (gm)
+Dry pod wall thickness (mm)
+Pod surface
+Average pod length (cm)
+Average pod diameter (mm)
+Pod shape
+Green pod color
+Dry pod color
+Outstanding values
+Days to maturity (green pods)
+Average  green pod wieght (gm)
+Green pod  color
+  Pungency
+Adaptation area                       -
+
+Planting date  Year  round both under
+
+Seed rate (kg/ha)  8-10
+
+Days to Maturity
+Seedling vigor
+Fruit length (cm)
+Number of fruit per plant
+Average fruit weight (g)
+Fruit Pubescence
+Fruit color
+Fruit surface
+Primary branches per plant
+Crop pest reaction  -
+
+Average Fruit Weight (g)
+Seed rate (kg/ha)  --
+
+Fruit width (cm)
+Flush color
+Fruit shape
+Fertilizer application time
+Fertilizer application method
+Days to flowering (days)
+Days to Maturity (days)
+Leaf to stem ratio
+Harvest Index
+Fodder quality (g/kg DM)
+No new varieties released in 2020
+
+Fertilizer rate (t/ha)
+Leaves
+Utilization information
+Quality parameters
+
+Leaf yield (qt/ha)
+
+Fertilizer rate (Kg/ha)
+Leaf lobe number
+Flower petal color
+Boll bearing habit
+Boll prominence of tip
+Plant growth habit
+Average Boll Weight (g)
+Ginning outturn(%)
+Fiber quality parameters
+
+Pant Height(cm)
+Ginning outturn (%)
+Seed rate (no/ha)
+
+Process finished with exit code 0

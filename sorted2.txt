@@ -1,0 +1,383 @@
+/usr/bin/python3.10 /home/mint/Documents/ideaProjects/untitled2/tosortinglist.py
+
+
+/usr/bin/python3.10 /home/mint/documents/ideaprojects/untitled2/toclass.py
+
+100 seed weight (g)
+
+100 seed weight (g)  14.17
+
+100 seed weight (g)  16.17
+
+100 seed weight (g)  46.4
+
+1000 kernel weight(g)
+
+1000 seed weight (g)
+
+1000 seed weight (g)  19-29 on average 17
+
+1000 seed weight (gm)
+
+1000 seed weight(g)
+
+1000 seed weight(gm)
+
+1000seed weight
+
+adaptation area
+
+adaptation areas
+
+adaptation area                       -
+
+adaption area
+
+average  green pod wieght (gm)
+
+average boll weight (g)
+
+average fruit weight (g)
+
+average green pod wieght (gm)
+
+average pod diameter (mm)
+
+average pod length (cm)
+
+boll bearing habit
+
+boll prominence of tip
+
+bulb color
+
+bulb diameter (cm)
+
+bulb flesh color
+
+bulb length (cm)
+
+bulb qulity/accepteblity
+
+bulb size (gm)
+
+bulu yield (qt/ha)  -
+
+color before maturity
+
+color of fruit flesh
+
+color of ripen fruit skin
+
+cooking quality
+
+cotyledon color
+
+cracks
+
+crop pest  reaction*
+
+crop pest reaction
+
+crop pest reaction  -
+
+crop pest reaction *
+
+crop pest reaction*
+
+days to 50% flowering
+
+days to 95% maturity
+
+days to maturity
+
+days to maturity (days)
+
+days to bulb maturity
+
+days to flowering
+
+days to flowering   43
+
+days to flowering (days)
+
+days to heading
+
+days to heding
+
+days to maturity   96
+
+days to maturity (dry pods)
+
+days to maturity (green pods)
+
+days to maturity(green pods)
+
+disease reaction*
+
+dry matter (dm) content (%) 22.08
+
+dry matter (dm) content (%) 24.30
+
+dry pod color
+
+dry pod wall thickness (mm)
+
+eye depth;   shallow
+
+eye depth;   very shallow
+
+eye depth; shallow-medium
+
+fertilizer application method
+
+fertilizer application time
+
+fertilizer rate (kg/ha)
+
+fertilizer rate (kg /ha)
+
+fertilizer rate (kg ha-1)
+
+fertilizer rate (t/ha)
+
+fertilizer rate(kg/ha)
+
+fertilizer(kg/ha)
+
+fiber quality parameters
+
+finger length(cm)
+
+finger per ear
+
+finger type
+
+flower color
+
+flower petal color
+
+flush color
+
+fodder quality (g/kg dm)
+
+fresh color
+
+fruit pubescence
+
+fruit color
+
+fruit firminess
+
+fruit length (cm)
+
+fruit number per cluster
+
+fruit quality
+
+fruit shape
+
+fruit shape   obviate
+
+fruit size (gm)
+
+fruit surface
+
+fruit width (cm)
+
+frying suitability test
+
+garin size
+
+ginning outturn (%)
+
+ginning outturn(%)
+
+grain and malt quality
+
+grain yield (qt/ha)
+
+green pod  color
+
+green pod color
+
+growth  habit
+
+growth habit
+
+growth habit   determinate
+
+growth habit;  erect
+
+harvest index
+
+hilum color
+
+inflorescence compactness
+
+iron content  (mg/kg) dw 17.29
+
+leaf color
+
+leaf coverage
+
+leaf lobe number
+
+leaf shape
+
+leaf size
+
+leaf to stem ratio
+
+leaf yield (qt/ha)
+
+leaves
+
+maturity group
+
+no new varieties released in 2020
+
+no new variety  released  in 2020
+
+number of fruit per plant
+
+number of pods per plant
+
+number of pods plant-1
+
+number of seeds per pod
+
+number of seeds pod-1 3
+
+number of seeds pod-1፡ 3
+
+number of stems/ plant
+
+number of tubers /hill
+
+oil content (%)
+
+oil content(%)   40
+
+outstanding values
+
+panicle type
+
+pant height(cm)
+
+plant growth habit
+
+plant height (cm)
+
+plant height(cm)
+
+planting date
+
+planting date  year  round both under
+
+planting season
+
+planting time
+
+plating date
+
+pod color
+
+pod shape
+
+pod surface
+
+pods per plant
+
+primary branches per plant
+
+process finished with exit code 0
+
+protein content (%)
+
+pubescence color
+
+pungency
+
+quality parameters
+
+row type
+
+seed  color
+
+seed coat color
+
+seed coat luster
+
+seed color
+
+seed market class
+
+seed rate (kg ha-1)
+
+seed rate (kg/ha)
+
+seed rate (kg/ha)   25-30
+
+seed rate (kg/ha)   25-30 (for raw planting)
+
+seed rate (kg/ha)   ranges over 60 -95 kg
+
+seed rate (kg/ha)  --
+
+seed rate (kg/ha)  8-10
+
+seed rate (no/ha)
+
+seed rate(kg/ha)
+
+seed rate(seeds/ha)
+
+seed shape
+
+seed size
+
+seeding rate(tubers/ha)
+
+seedling vigor
+
+seeds per pods
+
+spacing (cm)
+
+spacing(cm)
+
+specific gravity (sg)
+
+stem strength
+
+total yield in qt/ha
+
+tuber color
+
+tuber shape
+
+type
+
+utilization information
+
+yield (q/ha)
+
+yield (q/ha-1)
+
+yield (qt/ha)
+
+yield (qt/ha);
+
+yield(qt/ha)
+
+zinc content  (mg/kg) dw 13.32
+
+shelf life (days)
+
+  pungency
+
+
+
+
+Process finished with exit code 0

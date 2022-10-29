@@ -1,0 +1,181 @@
+Adaptation Area
+
+Adaptation Areas
+
+Adaptation area
+
+Altitude(masl)
+
+Anther color
+
+Area of adaptation
+
+Caryopsis color
+
+Cold tolerance
+
+Crop pest  reaction*
+
+Crop pest reaction
+
+Crop pest reaction*
+
+Days to  heading
+
+Days to flowering
+
+Days to heading
+
+Days to heading
+
+Days to maturity
+
+Days to sicking
+
+Days to synthesis
+
+Ear height (cm)
+
+Ear number of row of grains 14-18
+
+Ear type
+
+Female flowering (sicking)
+
+Fertilizer rate (kg)
+
+Fertilizer rate (kg/ha)
+
+Fertilizer rate (kg/ha)
+
+Fertilizer rate(kg/ha)
+
+Finger length(Cm)
+
+Finger per ear
+
+Finger type
+
+Flower color
+
+Grain Size
+
+Grain and malt quality
+
+Grain color
+
+Grain color
+
+Grain size
+
+Grain type
+
+Grain yield (qt/ha)
+
+Growth  habit
+
+Growth habit
+
+Growth habit  Erect
+
+Hectoliters weight (kg/hl)
+
+Inflorescence compactness
+
+Inflorescence compactness
+
+Kernel row arrangement
+
+Lemma color
+
+Lodging incidence
+
+Lodging tolerance
+
+Male flowering (tasseling)
+
+Male flowering (tasselling
+
+No. of grains per panicle
+
+Panicle color
+
+Panicle form
+
+Panicle length (cm)
+
+Panicle type
+
+Plant height (cm)
+
+Plant height(cm)
+
+Planting date
+
+Planting date
+
+Planting date
+
+Planting method
+
+Pollen Color
+
+Pollen color
+
+Quality
+
+Quality
+
+Quality data
+
+Rain fall(mm)
+
+Row type
+
+Seed color
+
+Seed color
+
+Seed rate (kg/ha)
+
+Seed rate(kg/ha)
+
+Seed size
+
+Seed size(mm)
+
+Shattering
+
+Silk color
+
+Spacing (cm)
+
+Spacing(cm)
+
+Special merit
+
+Thresh ability
+
+Thresh-ability
+
+Total sugar % (dry)
+
+Total sugar % (fresh)
+
+Yield (qt/ha)
+
+Yield (qt/ha)
+
+Yield (qt/ha);
+
+kernel weight (g)
+
+kernel weight (gm)
+
+kernel weight(g)
+seed weight (g)
+
+seed weight(g)
+
+seed weight(gm)
+

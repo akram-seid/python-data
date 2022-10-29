@@ -1,0 +1,61 @@
+adaptation area
+altitude(masl)
+anther color
+caryopsis color
+cold tolerance
+crop pest reaction
+days to flowering
+days to heading
+days to maturity
+days to sicking
+days to synthesis
+ear height (cm)
+ear number of row of grains 14-18
+ear type
+female flowering (sicking)
+fertilizer rate (kg/ha)
+finger length(cm)
+finger per ear
+finger type
+flower color
+grain size
+grain and malt quality
+grain color
+grain type
+grain yield (qt/ha)
+growth habit
+hectoliters weight (kg/hl)
+inflorescence compactness
+kernel row arrangement
+kernel weight(g)
+lemma color
+lodging incidence
+lodging tolerance
+male flowering (tasseling)
+no. of grains per panicle
+panicle color
+panicle form
+panicle length (cm)
+panicle type
+plant height (cm)
+planting date
+planting method
+pollen color
+quality
+quality data
+rain fall(mm)
+row type
+seed color
+seed rate (kg/ha)
+seed size(mm)
+seed weight (g)
+shattering
+silk color
+spacing (cm)
+special merit
+thresh ability
+total sugar % (dry)
+total sugar % (fresh)
+yield (qt/ha)
+
+

@@ -1,149 +1,1396 @@
-1.2.1. Variety name:   Washera (353*Key muri)(RIL 29)
-1.2.1.1. Year of release:   2019
-1.2.1.2.  Breeder/Maintainer:  Adet ARC/ARARI/
-1.2.2. Variety name:   Jitu (Acc. DZ-01-256)
-1.2.2.1. Year of release:   2019
-1.2.2.2.  Breeder/Maintainer:  Bako ARC/ORARI/
-1.2.3. Variety name:   Mena (DZ-01-354 X DZ-CR-37-131))
-1.2.3.1. Year of release:   2019
-1.2.3.2.  Breeder/Maintainer:  Sirinka ARC/ARARI/
-1.2.4. Variety name:   Bora (DZ- CR-387 X 3774-13 (RIL No.120B)
-1.2.4.1. Year of release:   2019
-1.2.4.2.  Breeder/Maintainer:  Debre Zeit ARC/EIAR/
-1.2.5. Variety name:   Ebba (Kay muri x 3774-13)(RIL No.18)
-1.2.5.1. Year of release:   2019
-1.2.5.2.  Breeder/Maintainer:  Debre Zeit ARC/EIAR
-1.2.6. Variety name:   Abay (Acc#225931)
-1.2.6.1. Year of release:   2018
-1.2.6.2. Breeder/Maintainer:  Adet ARC/ARARI/
-1.2.7. Variety name:   DURSI (Acc.236952)
-1.2.7.1. Year of release:   2018
-1.2.7.2. Breeder/Maintainer:  Bako ARC/ORARI/
-1.2.8. Variety name:   Hiber-1( DZ-01-974* P1222988)
-1.2.8.1. Year of release:   2017
-1.2.8.2. Breeder/Maintainer:  Adet ARC/ARARI/4 5
-1.2.9. Variety name:   Areka-1(Dz-01-974 xDz -01-2788)
-1.2.9.1. Year of release:   2017
-1.2.9.2. Breeder/Maintainer:  Areka ARC/SRARI/
-1.2.10. Variety name:   Flagot (Brown color)[DZ- Cr-442 (RIL No. 77C )]
-1.2.10.1. Year of release:   2017
-1.2.10.2. Breeder/Maintainer:  Debre Zeit ARC/EIAR
-1.2.11. Variety name:   Tesfa  [ D Z - Cr-457 (RIL .181)]
-1.2.11.1. Year of release:   2017
-1.2.11.2. Breeder/Maintainer:  Debre Zeit ARC/EIAR
-1.2.12. Variety name:   Negus    [ D Z - Cr-438 (RIL No. 91A)]
-1.2.12.1. Year of release:   2017
-1.2.12.2. Breeder/Maintainer:  Debre Zeit ARC/EIAR
-1.2.13. Variety name:   Dagem    [ D Z - Cr-438 (RIL No. 91A)]
-1.2.13.1 . Year of release:   2016
-1.2.13.2. Breeder/Maintainer:  Debre Zeit ARC/EIAR
-1.2.14. Variety name:   Abola (Quncho x Key)
-1.2.14.1. Year of release:   2015
-1.2.14.2. Breeder /Maintainer:  Adet ARC /AARC/
-1.2.15. Variety:    Kora    DZ -Cr-438 (RIL No. 133B)]
-1.2.15.1 Year of release:   2014
-1.2.15.2 . Breeder/Maintainer:  DZARC/EIAR
-1.2.16. Variety:    Worekiyu (214746A)
-1.2.16.1 . Year of release:   2014
-1.2.16.2. Breeder /Maintainer: Sirinka ARC/ARARI/
-1.2.17. Variety:    Boset [DZ- Cr-409(RIL-50d )]
-1.2.17.1 Year of release:   2012
-1.2.17.2 Breeder /Maintainer:  DZARC/EIAR
-1.2.18. Variety:  Lakech (RIL 273)
-1.2.18.1 Year of release:   2009
-1.2.18.2 Breeder /Maintainer: Sirinka ARC/ARARI/
-1.2.19. Variety:    Simada
-DZ- Cr-385 (RIL 295)
-1.2.19.1  Year of release:   2009
-1.2.19.2 Breeder /Maintainer: DZARC/EIAR
-1.2.20. Variety:    Kena (23-Tafi-Adi-72)
-1.2.20.1 . Year of Release:  2008
-1.2.20.2 . Breeder /Maintainer:  Bako ARC
-1.2.21. Variety:     Etsub ( Dz-01-3186)
-1.2.21.1 . Year of release :   2008
-1.2.21.2 . Breeder/Maintainer:  Adet ARC
-1.2.22. Variety:    Gemechis
-DZ-Cr-387 (RIL-127)
-1.2.22.1 . Year of release:   2007
-1.2.22.2 . Breeder/Maintainer:   MARC/EIAR
-1 2.23.    Varieties:     Mechare (Acc. 205953)
-1.2.23.1. Year of release:   2007
-1.2.23.2 . Breeder/Maintainer:   SRARC/ARARI
-1.2.24. Variety:    Quncho Dz-Cr-387 (RIL-355)
-1.2.24.1 Year of release:   2006
-1.2.24.2  Breeder/Maintainer:   DzARC/EIAR
-1.2.25.   Variety:         Amarach- (Ho- Cr-136)
-1.2.25.1 . Year of release:   2006
-1.2.25.2 . Breeder/Maintainer:  DzARC/EIAR
-1.2.26. Variety :     Guduru- (DZ-01-1880)
-1.2.26.1 . Year of release:   2006
-1.2.26.2 . Breeder/Maintainer:  BARC/OARI
-1.2.27.   Variety:    Dima- (DZ-01-2423)
-1.2.27.1 . Year of release:   2005
-1.2.27.2 . Breeder/Maintainer:  ADARC/ARARI
-1.2.28. Variety :     Yilmana (DZ-01-1868)
-1.2.28.1. Year of release:   2005
-1.2.28.2. Breeder/Maintainer:   ADARC/ARARI
-1.2.29.   Variety:    Dega-Tef (DZ-01-2675)
-1.2.29.1 . Year of release:  2005
-1.2.29.2 . Breeder/Maintainer:   DZARC/EIAR
-1.2.30.    Variety:   Gimbichu (DZ-01-899)
-1.2.30.1 . Year of release:   2005
-1.2.30.2 . Breeder/Maintainer:  DZARC/EIAR
-1.2.31.   Variety:    Zobel (DZ-01-1821)
-1.2.31.1 . Year of releas e:   2005
-1.2.31.2 . Breeder/Maintainer  SRARC/ARARI
-1.2.32.   Variety:     Genete ( DZ-01-146)
-1.2.32.1 . Year of release:   2005
-1.2.32.2 . Breeder/Maintainer:   SRARC/ARARI
-1.2.33.    Variety:    Ajora (PGRC/E 205396)
-1.2.33.1 . Year of release:     2004
-1.2.33.2 . Breeder/Maintainer:   ARARC/SRARI
-1.2.34.    Variety:      Gola (DZ-01-2054)
-1.2.34.1 . Year of release:    2003
-1.2.34.2 . Breeder/Maintainer:    SRARC/ARARI
-1.2.35.    Variety:     Key Tena (Dark brown) (DZ-01-1681)
-1.2.35.1 . Year of release:     2002
-1.2.35.2 . Breeder/Maintainer:    DZARC/EIAR
- 1.2.36.    Variety:     Koye ( DZ-01-1285)
-1.2.36.1 . Year of release:     2002
-1.2.36.2 . Breeder/Maintainer:  DZARC/EIAR
-1.2.37.    Variety:     Gerado (DZ-01-1281)
-1.2.37.1 . Year of release:    2002
-1.2.37.2 . Breeder/Maintainer:   DZARC/EIAR
-1.2.38.    Variety:    Ambo Toke (DZ-01-1278)
-1.2.38.1 . Year of release:        1999/00
-1.2.38.2 . Breeder/Maintainer:   HARC/EIAR
-1.2.39.   Variety:    Holetta Key (Brown color) (DZ-01-2053)
-1.2.39.1 . Year of release:   1998/99
-1.2.39.2.   Breeder/Maintainer:   HARC/EIAR
-1.2.40.   Variety:     Dukem (DZ-01-974)
-1.2.40.1 . Year of release:   1995
-1.2.40.2 . Breeder / Maintainer:  DZARC/EIAR
-1.2.41.   Variety:                  Ziquala (DZ- Cr-358)
-1.2.41.1 . Year of release:            1995
-1.2.41.2 . Breeder/ Maintainer:      DZARC/EIAR
-1.2.42.    Variety:                        Gibe (DZ- Cr-255)
-1.2.42.1 . Year of release:            1993
-1.2.42.2 . Breeder/ Maintainer:       DZARC/EIAR
-1.2.43.    Variety:                    Tseday (DZ- Cr-37)
-1.2.43.1 . Year of release:           1984
-1.2.43.2 . Breeder/ Maintainer:  DZARC/EIAR
-1.2.44.   Variety :          DZ-Cr-82
-1.2.44.1 . Year of release:        1982
-1.2.44.2 . Breeder / Maintainer:  DZARC/EIAR
-1.2.45.    Variety:        DZ-Cr-44
-1.2.45.1 . Year of release:       1982
-1.2.45.2 . Breeder / Maintainer:   DZARC/EIAR
-1.2.46.   Variety:              Magna (DZ-01-196)
-1.2.46.1 . Year of release:           1978
-1.2.46.2 . Breeder/Maintainer:    DZARC/EIAR
-1.2.47.    Variety:      DZ-01-787
-1.2.47.1 . Year of release:     1978
-1.2.47.2 . Breeder/ Maintainer:        DZARC/EIAR
-1.2.48.    Variety:              Enatit (DZ-01-354)
-1.2.48.1 . Year of release:        1970
-1.2.48.2 . Breeder / Maintainer:   DZARC/EIAR
-1.2.49.   Variety:         DZ-01-99
-1.2.49.1 . Year of release:        1970
-1.2.49.2 . Breeder / Maintainer:    DZARC/EIAR
+/usr/bin/python3.10 /home/mint/Documents/ideaProjects/untitled2/toPdf.py 
+  _____________                                  Crop Variety Register     
+2 
+ 1.1   New varieties 
+1.1.1. Variety name: DZ-Cr-497 Bishoftu (ቢሾፍቱ)   
+          Pedigree: DZ-Cr-387 X Rosea (RIL-133) 
+1.1.1.1. Agronomic & morphological characteristics 
+ Adaptation area:  High and optimum tef  
+ growing area 
+o Altitude (m.a.s.l): 1700-2500 
+o Rain fall (mm):  700-1200 
+ Seed rate (kg/ha):  10-15 
+ Spacing (cm):  20 between rows 
+ Planting method:  Both broad casting and row 
+    sowing   
+ Fertilizer rate (kg/ha): 
+o P 2O5:   60 for light soil 
+   60 for black soil 
+o N:   40  for light soil 
+   60 for black soil 
+ Days to heading:  46-60 
+ Days to maturity:  94-110 
+ Panicle length (cm):  30-42 
+ 1000 seed weight (g): 0.28-0.31 
+ Plant height (cm):  88-110 
+ Caryopsis color:  Very white 
+ Lemma color:   Variegated (Yellow ) 
+ Anther color:  Red 
+ Growth habit:  Semi erect  
+ Panicle form:  Very loose 
+ Crop pest reaction: *  
+ Grain yield (qt/ha):  
+o Research field:  24-32  
+o Farmer‟s field:  20-28 
+o Biomass yield              137.8-138.2  
+1.1.1.2. Year of release:   2020 
+1.1.1.3. Breeder/ maintainer:  Debre Zeit ARC/EIAR/ 
+     * Tolerant to major tef diseases (head smudge and rust) 
+ 
+2 3
+************************ 0
+  _____________                                  Crop Variety Register     
+3 
+ 1.1.2. Variety name:   Axumawit (Dz-cr-494(RIL.7) 
+            Pedigree:  (Dz-cr-387 x Alba (RIL.7) 
+1.1.2.1. Agronomic & morphological characteristics 
+ Adaptation area:  Optimum to high moisture  
+ tef growing areas of Tigray 
+o Altitude (m.a.s.l): 1957-2100 
+o Rain fall (mm):  - 
+ Seed rate (kg/ha):  15    
+ Spacing (cm):  20 between rows   
+ Planting date:  June 28 – July 10  
+ Fertilizer rate (kg/ha):  
+o P 2O5:   37.5 
+o N:   46 
+ Days to heading:  64 
+ Days to maturity:  107 
+ Panicle length (cm):  44 
+ 1000 seed weight (g): - 
+ Plant height (cm):  117 
+ Seed color:   Pale  white 
+ Flower color :  Yellow 
+ Panicle color: 
+ Panicle form:   
+ Crop pest reaction:* 
+  Grain yield (qt/ha):  
+o Research field:  19.89 
+o Farmer‟s field:  - 
+1.1.2.2. Year of release:   2020 
+1.1.2.3. Breeder/ maintainer:  Axum ARC/TRARI/ 
+               * No disease was observed  
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+4 
+ 1.2 Varieties under production 
+ 
+1.2.1. Variety name:   Washera (353*Key muri) 
+(RIL 29) 
+1.2.1.1. Year of release:   2019 
+1.2.1.2. Breeder/Maintainer:  Adet ARC/ARARI/ 
+ 
+1.2.2. Variety name:   Jitu (Acc. DZ-01-256) 
+1.2.2.1. Year of release:   2019 
+1.2.2.2. Breeder/Maintainer:  Bako ARC/ORARI/ 
+ 
+1.2.3. Variety name:   Mena (DZ-01-354 X DZ-  
+CR-37-131)) 
+1.2.3.1. Year of release:   2019 
+1.2.3.2. Breeder/Maintainer:  Sirinka ARC/ARARI/ 
+ 
+1.2.4. Variety name:   Bora (DZ-CR-387 X 3774-  
+13 (RIL No.120B) 
+1.2.4.1. Year of release:   2019 
+1.2.4.2. Breeder/Maintainer:  Debre Zeit ARC/EIAR/ 
+ 
+1.2.5. Variety name:   Ebba (Kay muri x 3774-13)  
+(RIL No.18)  
+1.2.5.1. Year of release:   2019 
+1.2.5.2. Breeder/Maintainer:  Debre Zeit ARC/EIAR 
+ 
+1.2.6. Variety name:   Abay (Acc#225931) 
+1.2.6.1. Year of release:   2018 
+1.2.6.2. Breeder/Maintainer:  Adet ARC/ARARI/ 
+ 
+1.2.7. Variety name:   DURSI (Acc.236952)  
+1.2.7.1. Year of release:   2018 
+1.2.7.2. Breeder/Maintainer:  Bako ARC/ORARI/ 
+ 
+1.2.8. Variety name:   Hiber-1   
+    (DZ-01-974* P1222988) 
+1.2.8.1. Year of release:   2017 
+1.2.8.2. Breeder/Maintainer:  Adet ARC/ARARI/ 
+4 5
+************************ 1
+  _____________                                  Crop Variety Register     
+11 
+ 2.1   New varieties 
+ 
+2.1.1. Variety name: Dursa (ETBW 9578) 
+                Pedigree: NAVJ07/SHORTENED SR26  
+                    TRANSLOCATION/3/ATTILA/BAV92//PASTOR) 
+2.1.1.1. Agronomic & morphological characteristics 
+ Adaptation area:   Low to midland area 
+o Altitude (m.a.s.l): 1600– 2100  
+o Rain fall (mm):  500 - 800 
+ Seed rate (kg/ha):  125 
+ Planting date:  Late June to early July  
+ Fertilizer rate (kg/ha):  
+o P 2O5:   46 
+o N:   92 
+ Days to heading:  59 
+ Days to maturity:  100 
+ Plant height (cm):  84 
+ Growth habit:  Erect type 
+ Ear type:   Tapering 
+ 1000 kernel weight (g): 34 
+ Hectoliter weight (kg/hl): 71 
+ Grain color:   White 
+ Crop pest reaction:*   
+ Quality data:   
+o Protein (%):  14.30 
+o Wet gluten(%):  48.45 
+  Grain yield (qt/ha):  
+o Research field:  51-62  
+o Farmers‟ field:  42-61 
+2.1.1.2. Year of release:   2020 
+2.1.1.3. Breeder/ maintainer:  Kulumsa ARC/EIAR/ 
+             *  Resistant to rust and septoria 
+ 
+   _____________                                  Crop Variety Register     
+12 
+ 2.1.2. Variety name: Boru (ETBW 9554)   
+Pedigree: AUAL/MUTUS/6/CNO79//PF70354/MUS/3/ 
+PASTOR/4/BAV92*2/5/FH6-1-7/7/CNO79// PF70354/ 
+MUS/3/PASTOR/4/BAV92*2/5/FH6-1-7) 
+2.1.2.1. Agronomic & morphological characteristics 
+ Adaptation area:  Mid to highland 
+o Altitude (m.a.s.l): 1900– 2780  
+o Rain fall (mm):  700 - 1100 
+ Seed rate (kg/ha):  125-150 
+ Planting date:  Early to Mid July 
+ Fertilizer rate (kg/ha):  
+o P 2O5:   46 
+o N:   92 
+ Days to heading:  70 
+ Days to maturity:  128 
+ Plant height (cm):  94 
+ Growth habit:  Erect 
+ Ear type:   Tapering 
+ 1000 kernel weight (g): 43 
+ Hectoliter weight (kg/hl): 71 
+ Grain color:   White 
+ Crop pest reaction:*   
+ Quality data:   
+o Protein (%):  13.23 
+o Wet gluten(%):  33.30 
+  Grain yield (qt/ha):  
+o Research field:  52-70  
+o Farmers‟ field:  49-53 
+2.1.2.2. Year of release:   2020 
+2.1.2.3. Breeder/ maintainer:  Kulumsa ARC/EIAR/ 
+ *Resistant to rust and septoria 
+ 
+12 13
+************************ 2
+  _____________                                  Crop Variety Register     
+13 
+ 2.1.3. Variety name: Hachalu (ETB 8260) 
+Pedgree: RANA96/SIDS-1 
+2.1.3.1. Agronomic & morphological characteristics 
+ Adaptation area:   Highlands of Bale and  
+    similar agro ecology  
+o Altitude (m.a.s.l): 2000-2500 
+o Rain fall (mm):  750-1500 
+ Seed rate (kg/ha):  150 
+ Spacing (cm):  20 between rows 
+ Planting date:  Mid June-early September  
+    in Bale based on the  
+    agro-ecology 
+ Fertilizer rate (kg/ha):  
+o NPS:   100 
+o Urea:   50 
+ Days to heading:  71 
+ Days to maturity:  143 
+ Plant height (cm):  103.7 
+ Growth habit  Erect 
+ Seed  color:  Amber 
+ 1000 seed weight (g): 44 
+ Crop pest reaction*:   
+  Quality 
+o Protein(%):  11.6 
+o HLW(kg/hL  83.1 
+o Falling number (sec) 26.3 
+ Grain yield (qt/ha):  
+o Research field:  52.9-63.7 
+o Farmer‟s field:  41.9-51.2 
+2.1.3.2. Year of release:   2020 
+2.1.3.3. Breeder/ maintainer:  Sinana ARC/OARI 
+ *Moderately resistance to yellow rust and stem rust 
+   _____________                                  Crop Variety Register     
+14 
+ 2.1.4. Variety name:  Adola 1 (ETBW 8408) 
+Pedgree: TILILA/MUBASHIIR-1 
+2.1.4.1. Agronomic & morphological characteristics 
+ Adaptation area:   Lowlands to Midland of  
+ Guji and similar agro  
+ ecology 
+o Altitude (m.a.s.l):  1600 – 2100  
+o Rain fall (mm):  792 - 1126 
+ Seed rate (kg/ha):  150 
+ Spacing (cm):   20 btween rows  
+ Planting date:   First week of September up  
+       to last week of September 
+       (depending on the onset of  
+       rain fall). 
+ Fertilizer rate (kg/ha):  
+o NPS:   121 
+o Urea:   50  
+ Days to heading:  62 
+ Days to maturity:  103 
+ Plant height (cm):  75.18 
+ Growth habit:   Erect  
+ 1000 kernel weight (g):  42.6 
+ Hectoliter weight (kg/hl): 81.4  
+ Crop pest reaction: *   
+ Special merit:   Early maturing group 
+ Seed color:   Amber Quality 
+ Quality 
+o Protein(%):  13.83 
+o Zeley index (ml)  67.05 
+o Grain Gluten (%) 28.50 
+ Grain yield (qt/ha):  
+o Research field:  27-38 
+o Farmer‟s field:  26-30 
+2.1.4.2. Year of release:   2020 
+2.1.4.3. Breeder/ maintainer:  Bore ARC/ORARI/ 
+  * Resistant to leaf, yellow and stem rust  
+  
+14 15
+************************ 3
+  _____________                                  Crop Variety Register     
+15 
+ 2.1.5. Variety name:  Netsanet (ነፃነት) (ETBW 6753) 
+Pedgree: CROC_1/AE.SQUARROSA (224)//OPATA/4/  
+TC14/2*HTG//DUCULA/3/PRINIA 
+2.1.4.1. Agronomic & morphological characteristics 
+ Adaptation area:   Mid to high land altitude  
+o Altitude (m.a.s.l):  2000 – 2800  
+o Rain fall (mm):  900 - 1200 
+ Seed rate (kg/ha):  125-150 
+ Planting date:   End of June to early July  
+       depend on the onset of  
+       rainfall 
+ Fertilizer rate (kg/ha):  
+o P 2O5:   46 
+o N:    41 
+ Days to heading:  72 
+ Days to maturity:  124 
+ Plant height (cm):  82 
+ 1000 kernel weight (g):  43 
+ Hectoliter weight (kg/hl): 76  
+ Crop pest reaction: *   
+ Grain  color:   White 
+ Quality 
+o Protein(%):  10.5 
+o Wet gluten(%):  22.9 
+o Starch  (%):  62.7 
+ Grain yield (qt/ha):  
+o Research field:  29-36 
+o Farmer‟s field:  24-30 
+2.1.5.2. Year of release:   2020 
+2.1.5.3. Breeder/ maintainer: Srinka ARC/ARARI/ 
+ * Moderately resistance to Yellow and Stem Rust    
+ 
+   _____________                                  Crop Variety Register     
+16 
+ 2.1.6. Variety name:  Adet-1 (BAJ #1/ALTIGO) 
+Pedgree: - MXI15-16\M27ISEPTON\47 
+2.1.4.1. Agronomic & morphological characteristics 
+ Adaptation area:   Mid to high land altitude  
+o Altitude (m.a.s.l):  2220 – 2800  
+o Rain fall (mm):  1200 - 1600 
+ Seed rate (kg/ha):  150 
+ Planting date:   End of June to late July  
+ Fertilizer rate (kg/ha):  
+o NPS:   100-225 
+o Urea:   161-275 
+ Days to heading:  70 
+ Days to maturity:  128 
+ Plant height (cm):  86.36 
+ Growth habit:   Erect type 
+ 1000 kernel weight (g):  39 
+ Hectoliter weight (kg/hl): 74.73  
+ Crop pest reaction: *   
+ Grain  color:   Amber 
+ Quality 
+o Protein(%):  10.38 
+o Wet gluten(%):  21.86 
+o  Starch  (%):  66.3 
+ 
+ Grain yield (qt/ha):  
+o Research field:  53.8 
+o Farmer‟s field:  40.3 
+2.1.6.2. Year of release:   2020 
+2.1.6.3. Breeder/ maintainer: Adet ARC/ARARI/ 
+ * Moderately resistant to stem rust, stripe rust & septoria 
+ 
+ 
+16 17
+************************ 4
+  _____________                                  Crop Variety Register     
+39 
+ 7. Rice (Oryza sativa L. or Oryza glaberrima) 
+ 
+Rice is the seed of the monocot plants. As a cereal grain, it is the most 
+important staple food for a large part of the world's human population, 
+especially in East and South Asia, the Middle East, Latin America, and 
+the West Indies. It is the grain with the second-highest worldwide
+production, after maize (corn). 
+ 
+Since a large portion of maize crops are grown for purposes other than 
+human consumption, rice is the most important grain with regard to 
+human nutrition and caloric intake, providing more than one fifth of the 
+calories consumed worldwide by the human species. As a traditional 
+food plant in Africa, its cultivation declined in colonial times, but its 
+production has the potential to improve nutrition, boost food security, 
+and foster rural development and support sustainable land care. 
+ 
+Rice is an annual short day cereal crop (even though some varieties are 
+long day) and grown widely in tropical countries; it needs about 1,800 
+mm of precipitation annually. At national level, during 2019/20 
+cropping season 57,575.72 ha of land is covered by this crop with a 
+total yield estimate of about 1,706,301.01qt. The highest yield is 
+obtained in warm temperature and soil with high clay silt content. 
+Seeds are sown in nurseries at the rate of 60 kg/ha and transplanted to 
+the field 4-6 plants per hill when seedlings are well grown. It needs 90-
+200 days to mature depending on varieties. 
+ 
+It is a recently introduced cereal crop into Ethiopia and cultivated in 
+Fogera (South Gondar), Pawe (Northwestern part of Ethiopia), 
+Gambela and Southeastern part of the country (irrigated rice).It is also 
+produced in western parts in a small scale. There is lots of potential rice 
+producing areas in Ethiopia. 
+ 
+ 
+ 
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+40 
+ 7. 1.  New varieties 
+7a.1. Upland type  
+7a.1.1. Variety name:  Pawe-2 (PARC DAT-V-3-2013 
+7a.1.1.1. Agronomic and morphological characteristics: 
+ Adaptation area:  Pawe, Fogera, Assosa, ,  
+ Gondar, Maitsebri and 
+ similar ecologies  
+ Altitude(masl): 750-1860 
+ Rain fall(mm):  1100-1457 
+ Seed rate (kg/ha): 60 
+ Planting date: Mid June to early July  
+ depending on the onset of  
+ rainfall 
+ Spacing (cm): 25 between rows for row  
+ drill planting  
+ Fertilizer rate (kg/ha)  
+and time of apllication: 
+o P 2O5:      23 (all at planting) 
+o   N :    69 (1/3 at planting, 1/3 at  
+   tillering and 1/3 at panicle  
+   initiation) 
+ Days to  heading:  80  
+ Days to maturity: 118 
+ Panicle length (cm): 21.1 
+ Plant height (cm): 97.5 
+ Thresh ability: Easy 
+ Lodging incidence: None 
+ Shattering: Moderately resistant 
+ Seed size(mm):  Slender shape [length (9.2):  
+width (2.5) =7.14] 
+ Growth habit: Erect 
+ No. of grains per panicle: 152 
+ 1000 seed weight (g): 12.34 
+40 41
+************************ 5
+  _____________                                  Crop Variety Register     
+41 
+  Caryopsis color: White 
+ Crop pest reaction: Resistant to major rice  
+ disease 
+ Grain yield (qt/ha):  
+o Research field:  50.59 
+o Farmers field:  48.47 
+ 7a.1.1.2.Year of release: 2020 
+ 7a.1.1.3.Breeder/maintainer: Pawe ARC/EIAR/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+42 
+ 7a. 2 Varieties under production   
+ 
+7a.2.1      Variety name:   Azmera (ART16-5-9-22-2- 
+1-1-B-1-2) 
+7a.2.1.1   Year of release:   2019 
+7a.2.1.2   Breeder/maintainer:  Fogera National Rice  
+Research and Training  
+Center /EIAR   
+ 
+7a.2.2      Variety name:   Maitsebri-3 (ARCCU16Bar- 
+9-9-24-4-B-1) 
+7a.2.2.1   Year of release:   2018 
+7a.2.2.2   Breeder/maintainer:  Shire-Maitsebri ARC(TARI)  
+ 
+7a.2.3.     Variety name:   Fogera 1  
+(ART15-7-16-30-2-B-B) 
+7a.2.3.1   Year of release:   2016 
+7a.2.3.2   Breeder/maintainer:  Fogera NRRTC/, EIAR/ 
+ 
+7a.2.4     Variety:   Maytsebri-2 (ARCCU16   
+Bar-4-14-2-2-B-1) 
+7a.1.4.1 Year of release:   2016 
+7a.1.4.2 Breeder/maintainer:  Shire – Maitsebri  ARC   
+     /TARI/  
+ 
+7a.2.5      Variety name:   ADET (WAB450-1-B-P- 
+462-HB) 
+7a.2.5.1   Year of release:   2014 
+7a.2.5.2   Breeder/maintainer:  Adet ARC (ARARI) 
+ 
+7a.2.6     Variety:   Maytsebri-1 (NERICA 13) 
+7a.1.6.1 Year of release:   2014 
+7a.1.6.2 Breeder/maintainer:  Maitsebri ARC (TARI) 
+ 
+7a.2.7.   Variety:  NERICA-12 (WAB880-1-
+ 38-20-17-P1-HB) 
+7a.2.7.1 Year of release:   2013 
+7a.2.7.2 Breeder/Maintainer:   Adet ARC 
+42 43
+************************ 6
+  _____________                                  Crop Variety Register     
+45 
+ 7b.1 Low land rice 
+7b.1. New varieties  
+7b.1.1. Variety name: Selam (Yungeng 31) 
+7b.1.1.1.  Agronomic and morphological characteristics: 
+ Adaptation area:  Fogera, Jimma, Dembiya,  
+ Shire-maitsebri 
+o Altitude(masl):  1350-1810 
+o Rain fall(mm):   1296-1561 
+ Seed rate (kg/ha): 60  
+ Planting date: Early June to late June 
+ depending on the onset 
+ of rainfall 
+ Spacing (cm): 25 between rows for 
+ row drill planting 
+ Fertilizer rate (kg/ha): 
+o P 2O5   23 
+o N    69 
+ Days to heading: 93 
+ Days to maturity: 132 
+ Panicle length (cm): 20 
+ Plant height (cm): 91 
+ Threshability: Fair 
+ Lodging tolerance: Good 
+ Shattering: Fair 
+ Seed size: Medium 
+ Growth habit: Erect 
+ No. of grains per panicle: 129 
+ Cold tolerance: Very good 
+ 1000 seed weight (g): 25 
+ Caryopsis color: White 
+ Crop pest reaction: Moderate resistance to  
+ major rice diseases  
+ Grain yield (qt/ha):  
+o Research field:  52 
+o Farmers field:  48 
+ 7b.1.1.2.Year of release: 2020 
+ 7b.1.1.3.Breeder/maintainer: Fogera NRR & TC/EIAR/    _____________                                  Crop Variety Register     
+46 
+ 7b.2. Variety under production 
+ 
+7b.2.1    Variety:    Abay  (ARCC16 
+Bar-21-5-12-3-1-2-1) 
+7b.2.1.1 Year of release: 2017
+7b.2.1.2 Breeder/maintainer:  Fogera NRRTC/EIAR/ 
+ 
+7b.2.2    Variety:    Erib  
+(WAB880-1-32-1-2-P1-HB) 
+7b.2.2.1 Year of release:   2017 
+7b.2.2.2 Breeder/maintainer:  Fogera NRRTC/EIAR/ 
+ 
+7b.2.3    Variety:    Shaga (Scrid017-1-4-4-4-1) 
+7b.2.3.1 Year of release:   2017 
+7b.2.3.2 Breeder/maintainer:  Fogera NRRTC/EIAR/ 
+ 
+7b.2.4    Variety:    Wanzaye (Scrid006-3-2-3-2) 
+7b.2.4.1 Year of release:   2017 
+7b.2.4.2 Breeder/maintainer:  Fogera NRRTC/EIAR/ 
+ 
+7b.2.5    Variety:    Fogera2 (KOMBOKA) 
+7b.2.5.1 Year of release:   2016 
+7b.2.5.2 Breeder/maintainer:  Fogera NRRTC/EIAR/ 
+ 
+7b.2.6     Variety:   Hiber (IRGA370-38-1- 
+1F-B1-1) 
+7b.2.6.1  Year of release:   2013 
+7b.2.6.2  Breeder/maintainer:  Adet ARC(AARC) 
+7b.2.7.   Variety:    Edget (WAB189-B-B-B- 
+8-HB 
+7b.2.7.1 Year of release:   2011 
+7b.2.7.2 Breeder/Maintainer:   ADARC/ARARI 
+ 
+7b.2.8      Variety:    VRH 606 
+7b.2.8.1   Year of release:  2013 
+7b.2.8.2. Breeder/Maintainer:  ViBHA Seeds Ethiopia PLC 
+ 
+ 
+46 47
+************************ 7
+  _____________                                  Crop Variety Register     
+47 
+ 7b.2.9     Variety:    VRH 640 
+7b.2.9.1. Year of release:   2013 
+7b.2.9.2. Breeder/Maintainer:  ViBHA Seeds Ethiopia PLC 
+ 
+7b.2.10    Variety:    VRH 654 
+7b.2.10.1 Year of release:  2013 
+7b.2.10.2 Breeder/Maintainer:  ViBHA Seeds Ethiopia PLC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+48 
+ 7c. Irrigated rice 
+ 
+ No  new variety released in 2020 
+ 
+7c. 2 Varieties under production  
+ 
+7c.2.1    Variety:    NERICA-6 
+7c.2.1.1 Year of release:   2011 
+7c.2.1.2 Breeder/Maintainer:   GoPARC/SoRPARI 
+ 
+7c.2.2    Variety:    NERICA-15 
+7c.2.2.1 Year of release:   2011 
+7c.2.2.2 Breeder/Maintainer:   GoPARC/SoRPARI 
+ 
+7c.2.3    Variety:    Kallafo-1/FOFIFA-3737/)  
+7c.2.3.1 Year of release:   2010 
+7b.2.3.2 Breeder/Maintainer:   GoPARC/SoRPARI 
+ 
+7c.2.4    Variety:    NERICA-14 (upland type) 
+7c.2.4.1 Year of release:   2010 
+7c.2.4.2 Breeder/Maintainer:   GoPARC/SoRPARI 
+ 
+7c.2.5    Variety:    SHEBELLE  
+(IR 688059-76-3-3-3-2)  
+7b.2.5.1 Year of release:   2007 
+7b.2.5.2 Breeder/Maintainer:   GoPARC/SoRPARI 
+ 
+7c.2.6   Variety:     GODE-1 (BG-90-2) 
+7c.2.6.1 Year of release:   2007 
+7c.2.6.2 Breeder/Maintainer:   GoPARC/SoRPARI 
+ 
+7c.2.7    Variety:    HODEN (MTU-1001) 
+7c.2.7.1 Year of release:   2007 
+7c.2.7.2 Breeder/Maintainer:   GoPARC/SoRPARI 
+ 
+ 
+ 
+ 
+48 49
+************************ 8
+  _____________                                  Crop Variety Register     
+49 
+  8. Maize (Zea mays L.) 
+ 
+Maize originated in Central America and was introduced to West 
+Africa in the early 1500 A.D by the Portuguese traders. It was 
+introduced to Ethiopia in 16th or 17th century. Today maize is one of the 
+most important food crops worldwide. It is grown in most parts of the 
+world over a wide range of environmental conditions, ranging between 
+500 latitude north and south of equator. It also grows from sea level to 
+over 3000 meters above sea level. 
+ 
+In Ethiopia, maize grows from moisture stress areas to high rainfall 
+areas and from lowlands to the highlands.  It is largely produced in 
+Western, Central, Southern and Eastern parts of the country. In 2019/20 
+cropping season 2,274,305.93 hectares of land was covered with maize 
+with an estimated production not less than 96,357,345.00 quintals. 
+ 
+In our country maize is produced mainly for food, especially, in major 
+maize producing regions particularly for low-income groups, it is also 
+used as staple food.  Maize is consumed as ''Injera'' Porridge, Bread and 
+''Nefro.''  It is also consumed roasted or boiled as vegetables at green 
+stage.  In addition to the above, it is used to prepare local alcoholic 
+drinks known as ''Tella'' and ''Arekie.''  The leaf and stalk are used for 
+animal feed and also dried stalk & cob are used for fuel. It is also used 
+as industrial raw material for oil & glucose production.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+50 
+ 8.1. New variety 
+8.1.1. Variety name:     MH141 (WE7210)  
+          CML539/WMB0001//WMA2002 
+8.1.1.1. Agronomic and morphological characteristics 
+ Area of adaptation:  Recommended to the low  
+land and mid-altitude dry  
+agro ecologies of Ethiopia. 
+o Altitude (m.a.s.l): 1000-1800 
+o Rainfall (mm) :  500-1000 
+ Seed rate (kg/ha):   25 
+ Planting date     Mid June to late june  
+(immediately after on the  
+onset of rany  
+ Fertilizer rate (kg) 
+o NPS :    46 at melkassa  and as  
+   recommended for other 
+   locations  
+o Urea:   64 at Melkassa, and as  
+recommended for other  
+locations 
+ Days to anthesis:  71.4 
+ Days to silking:  72 
+ Days to maturity:   141 
+ 1000 kernel weight (gm):  384.75  
+ Ear height (cm):   100 
+ Plant height (cm):  181 
+ Seed color:    White 
+ Pollen color:   Pale yellow 
+ Grain type:    Semi-flint 
+ Grain size:   Medium 
+ Crop pest reaction:  Resistant to turcicum leaf  
+blight (TLB) and common  
+leaf rust. 
+50 51
+
+************************ 9
+  _____________                                  Crop Variety Register     
+51 
+  Yield (qt/ha) 
+o Research field:  92.5 
+o Farmers‟ field:  65 
+8.1.1.2. Year of release:  2020 
+8.1.1.3. Breeder/maintainer:  Melkassa ARC/EIAR/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+52 
+ 8.1.2. Variety name: BH520 W1 (Nada) 
+8.1.2.1. Agronomic and morphological characteristics 
+ Area of adaptation:  Recommended to the mid- 
+altitude sub-humid agro- 
+ecologies of Ethiopia 
+o Altitude (m.a.s.l): 1000-1800 
+o Rainfall (mm) :  900-1500 
+ Seed rate (kg/ha):   25 
+ Planting date     Mid to late May 
+(immediately after the onset  
+of the rainy season) 
+ Fertilizer rate (kg) 
+o P 2O5: 69 at Bako, and as  
+recommended for other 
+locations\ 
+o N:    138  
+ Male flowering (tasseling): 88.2 
+ Female flowering (silking): 89.5 
+ Days to maturity:   155 
+ 1000 kernel weight (gm):  370 
+ Grain size:   Medium 
+ Ear height (cm):   134.1 
+ Plant height (cm):  237.3 
+ Seed color:    White 
+ Pollen Color:   Pale yellow 
+ Silk color:   Pink 
+ Grain type:    Semi-flint 
+ Kernel row arrangement: Straight  
+ Ear number of row of grains 14-18   
+ Crop pest reaction*:  Resistant to gray leaf spot  
+(GLS), turcicum leaf blight  
+(TLB) and common leaf rust  
+52 53
+************************ 10
+  _____________                                  Crop Variety Register     
+53 
+  Yield (qt/ha) 
+o Research field:  90-130 
+o Farmers‟ field:  76-100 
+8.1.2.2. Year of release:  2020 
+8.1.2.3. Breeder/maintainer:  Bako NMRC/EIAR  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+54 
+ 8.1.3. Variety name: BOS20W1 Sweet corn (White) 
+8.1.3.1. Agronomic and morphological characteristics 
+ Area of adaptation:  Recommended to the mid- 
+altitude sub-humid and  the  
+Rift Valley of Ethiopia. 
+o  Altitude (m.a.s.l): 1000-1800 
+o Rainfall (mm) :  900-1500 
+ Seed rate (kg/ha):   25 
+ Spacing(cm):   75 between rows and  
+30 between plants 
+ Planting date     Mid to late May 
+ (immediately  after the onset  
+of the rainy season) 
+ Fertilizer rate (kg) 
+o P 2O5:    69 at Bako, and as  
+recommended for other 
+locations\ 
+o N:    138  
+ Male flowering (tasselling: 69.3 
+ Female flowering (silking): 71.1 
+ Days to maturity:   140 
+ Grain Size:   Medium 
+ Ear height (cm):   112 
+ Plant height (cm):  220 
+ Seed color:    Yellow 
+ Pollen Color:   Pale yellow 
+ Silk color:   Largely white 
+ Grain type:    Shriveled when dry 
+ Total sugar % (fresh)  :  6.49  
+ Total sugar % (dry):  34.33 
+ Kernel row arrangement: Straight 
+ Crop pest reaction*:  Resistant to gray leaf spot  
+(GLS), turcicum leaf blight  
+54 55
+************************ 11
+  _____________                                  Crop Variety Register     
+55 
+     (TLB) and common leaf rust  
+ Yield (qt/ha) 
+o Research field: 51.1 ( at immature  stage,  
+depend on how early  
+harvested at dough growth  
+stage) 
+o Farmers‟ field:  - 
+8.1.3.2. Year of registration:  2020 
+8.1.3.3. Breeder/maintainer:  Bako NMRC/EIAR 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+56 
+ 8.1.4. Variety name: BOS20Y1 Sweet corn (Yellow) 
+8.1.4.1. Agronomic and morphological characteristics 
+ Area of adaptation:  Recommended to the mid- 
+altitude sub-humid and  the  
+Rift Valley of Ethiopia. 
+o  Altitude (m.a.s.l): 1000-1800 
+o Rainfall (mm) :  900-1500 
+ Seed rate (kg/ha):   25 
+ Spacing(cm):   75 between rows and  
+30 between plants 
+ Planting date     Mid to late May 
+(immediately after the onset  
+of the rainy season) 
+ Fertilizer rate (kg) 
+o P 2O5:    69 at Bako, and as  
+recommended for other 
+locations\ 
+o N:    138  
+ Male flowering (tasselling: 68.9 
+ Female flowering (silking): 71.2 
+ Days to maturity:   140 
+ Grain size:   Medium 
+ Ear height (cm):   104 
+ Plant height (cm):  212 
+ Seed color:    Yellow 
+ Pollen Color:   Pale yellow 
+ Silk color:   Largely white 
+ Grain type:    Shriveled when dry 
+ Total sugar % (fresh)  :  6.45   
+ Total sugar % (dry):  34.11 
+ Crop pest reaction*:  Resistant to gray leaf spot  
+(GLS), turcicum leaf blight  
+    (TLB) and common leaf rust  
+56 57
+************************ 12
+  _____________                                  Crop Variety Register     
+57 
+  Yield (qt/ha) 
+o Research field:  57.4 ( at immature  stage, 
+   depend on how early  
+   harvested at dough growth  
+   stage) 
+o Farmers‟ field:  - 
+8.1.4.2. Year of registration:  2020 
+8.1.4.3. Breeder/maintainer:  Bako NMRC/EIAR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+58 
+ 8.2. Varieties under production 
+ 
+8.2 1. Variety:     DK7500 
+8.2.1.1. Year of registration:  2019 
+8.2.1.2. Breeder/maintainer: Bayer Life Science Ethiopia
+PLC 
+ 
+8.2 2. Variety:     CP.201 (IQT5024 X FIF3) 
+8.2.2.1. Year of release:   2019 
+8.2.2.2. Breeder/maintainer:  CPP.Seeds PLC 
+ 
+8.2 3. Variety:     CP.838 (SKQPP422 X IFF3) 
+8.2.3.1. Year of release:  2019 
+8.2.3.2. Breeder/maintainer:  CPP.Seeds PLC 
+ 
+8.2 4. Variety:     Kortu (P2809W) 
+8.2.4.1. Year of registration:  2017 
+8.2.4.2. Breeder/maintainer:  Dupont Pioneer Hi-Bred  
+    Seeds Ethiopia 
+ 
+8.2 5. Variety:     BH549 Ilu እሉ   
+(BKL4/ BKL003) 
+ 8.2.5.1. Year of release:   2017 
+8.2.5.2. Breeder/maintainer:  Bako National Maize  
+     Research Program/ EIAR 
+ 
+8.2 6. Variety:     Afran Qalloo (HrU 28) 
+8.2.6.1. Year of release:  2017 
+8.2.6.2. Breeder/maintainer:  Haramaya University 
+ 
+8.2 7. Variety:     Baate (HrU 22)  
+8.2.7.1. Year of release:   2017 
+8.2.7.2. Breeder/maintainer: Haramaya University
+ 
+8.2 8. Variety:     DK008  
+8.2.8.2. Year of registration:  2017 
+8.2.8.3. Breeder/maintainer: Bayer Life Science Ethiopia 
+PLC 
+58 59
+************************ 13
+  _____________                                  Crop Variety Register     
+67 
+ 9. Sorghum (Sorghum bicolor) 
+ 
+S. bicolor is the cultivated species of sorghum; its wild relatives make 
+up the botanical genus Sorghum. It is cultivated for its edible grain. 
+Sorghum originated in northern Africa, and is now cultivated widely in 
+tropical and subtropical regions. S. bicolor is typically an annual, but
+some cultivars are perennial. It grows in clumps that may reach over 4 
+meters high. The grain is small, ranging from 3 to 4 mm in diameter. 
+Sweet sorghums are sorghum cultivars that are primarily grown for 
+foliage; they are shorter than those grown for grain.  
+ 
+The species can grow in arid soils and withstand prolonged droughts. It 
+has four features which make it one of the most drought resistant crops 
+of all i.e., i) it has a very large root-to-leaf surface area ii) in times of 
+drought it will roll its leaves to lessen water-loss by transpiration iii) if 
+drought continues, it will go into dormancy rather than dying and iv) its 
+leaves are protected by a waxy cuticle. 
+ 
+Sorghum is one of the major crops produced in Ethiopia, and it is the 
+fourth important crop in terms of area coverage and volume of 
+production.  It is adapted to a wide range of environment, and hence 
+can be produced in the high lands, medium altitude and low land areas.  
+It is widely produced more than any other crops, in the areas where 
+there is moisture stress.  In 2019/20 cropping season, sorghum is 
+produced on about 1,828,182.49 ha of land from which 52,655,800.59 
+quintals of yield are obtained.    
+ 
+Sorghum is used in various ways in our country.  The grains are used 
+for human foods such as Porridge, “Nefro,” infant food, syrup, and 
+local beverages known as “Tella‟‟ and “Arekie‟‟.  Also the leaf and 
+stalk are used for animal feed and further the stalks are also used for 
+construction of houses and fences, and as fuel wood. 
+ 
+ 
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+68 
+ 9.1. New variety 
+9.1.1. Variety name:  Marara [ETSL 101371 (Acc.212642)]  
+9.1.1.1. Agronomic and morphological characteristics 
+ Adaptation area:  Western Oromia (Bako, 
+    Gute, Uke, Billo Bosh and 
+    similar agro ecologies 
+o  Altitude (masl): 1200-1950 
+o Rainfall(mm):  950-1250 
+ Seed rate (kg/ha):  12 
+ Spacing(cm):  75 between rows and 15  
+between plants 
+ Planting date:  early to mid may 
+ Fertilizer rate(kg/ha):  
+o NPS:   100 all at planting 
+o Urea:   100 Split Application (half  
+   at planting , half 35 days  
+   after emergence) 
+ Days to flowering:  99 
+ Days to maturity:  156 
+ Plant height(cm):  366.5 
+ 1000 seed weight (g): 26.5 
+ Seed color:   Red 
+ Growth habit:  Erect
+ Panicle type:  Semi compact 
+ Crop pest reaction*:   
+ Grain yield (qt/ha):   
+o Research station: 46-53.5 
+o Farmers‟ field:  39-51 
+9.1.1.2. Year of release:   2020 
+9.1.1.3. Breeder/ maintainer:  Bako ARC/ORARI/ 
+*Tolerant to major sorghum diseases (Leaf, Head disease), 
+Tolerant to Bird attack 
+ 
+ 
+68 69
+************************ 14
+  _____________                                  Crop Variety Register     
+69 
+ 9.1.2. Variety name: Beletew (ICSR24005) 
+9.1.2.1. Agronomic and morphological characteristics 
+ Adaptation Area:  Debrebirhan (Shewarobit,  
+Ataye, Merhabete), Kobo  
+(Sirinka), Tach Armachiho  
+(Gondar) and similar 
+agroecology  
+o Altitude (masl):  1200-1500 
+o Rainfall(mm):  800-1100 
+ Seed rate (kg/ha):  10-13  for row sowing  
+15-20 for broadcasting  
+ Spacing (cm):  75 between rows; 15  
+between plants 
+ Planting date:  First and second week of  
+July  
+ Fertilizer rate(kg/ha):  
+o NPS:   121 
+o Urea:  90 
+ Days to heding :  73 
+ Days to maturity:  127 
+ Plant height(cm):  144 
+ 1000 seed weight (g): 23 
+ Inflorescence compactness 
+and shape:   Semi-compact; oval 
+ Seed color:   White 
+ Crop pest reaction*:    
+ Grain yield (qt/ha):   
+o Research station: 43  
+o Farmers‟ field: - 
+9.1.2.2. Year of release:   2020 
+9.1.2.3. Breeder/ maintainer:  Debrebrehan ARC/ARARI/ 
+* Resistant to sorghum midge insect pest, and free from   
+    Anthracnose disease   _____________                                  Crop Variety Register     
+70 
+ 9.1.3. Variety name:  Sadii (SLRC-046)   
+9.1.3.1. Agronomic and morphological characteristics 
+ Adaptation area:  Kellem Wollega, West  
+Wollega zones and similar  
+agro-ecologies  
+o Altitude (masl):  1400-1900 
+o Rainfall(mm):  1000-2100 
+ Seed rate (kg/ha):  10 for row sowing 
+ Spacing(cm):  75 between rows 
+     15 between plants 
+ Planting date:  Late  May  to to early June 
+ Fertilizer rate(kg/ha):  
+o NPS:   100 at planting time  
+o Urea  :   100 half at planting and half  
+   at knee stage 
+ Days to flowering:  131 
+ Days to maturity:  183 
+ Plant height(cm):  344 
+ 1000 seed weight (g): 32.48 
+ Seed color:   Gray 
+ Inflorescence compactness: Semi Compact  
+ Crop pest reaction*:  
+ Grain yield (qt/ha):   
+o Research station: 50.17 
+o Farmers‟ field:  48.3 
+9.1.3.2. Year of release:   2020 
+9.1.3.3. Breeder/ maintainer:  Haro sebu ARC/ORARI 
+* Tolerant to major pest of sorghum (Stem borer,  Anthracnose 
+     leaf blight, leaf spot, die back etc. 
+ 
+ 
+ 
+ 
+ 
+70 71
+************************ 15
+  _____________                                  Crop Variety Register     
+79 
+ 10.1 New variety 
+10.1.1. Variety name: Metekili (Acc. 005pw-2012) 
+10.1.1.1. Agronomic and morphological characteristics 
+ Adaptation Area:  Western part of Ethiopia,  
+     (Awi and Metekel Zone) & 
+     similar agro ecologies. 
+o Altitude (masl): 1000-2000 
+o Rainfall(mm): 1200-1700 
+ Seed rate(kg/ha):  8 for row planting and 15 for  
+broad casting 
+ Spacing (cm):  40 btween rows & 10  
+between plants 
+ Planting date:   Early June 
+ Fertilizer rate(kg/ha):  
+o DAP:  100 all at planting time 
+o Urea:  50 (half at planting, half 30  
+days after emergence) 
+ Days to heading:  105 
+ Days to maturity :  155 
+ 1000 seed weight(g):  3 
+ Plant height(cm):  93.7 
+ Finger length(Cm) :  11.4 
+ Finger per ear:  8.8
+ Finger type:   Semi loose with double 
+srand 
+ Seed color:   Brown red 
+ Growth  habit:  Erect  
+ Crop pest  reaction*:   
+ Yield (qt/ha): 
+o Research field: 28-38 
+o Farmers‟ field: 25.5- 30 
+10.1.1.2. Year of release:   2020 
+10.1.1.3. Breeder/Maintainer:  Pawe ARC/EIAR/ 
+ 
+*Resistant to Blast diseases under natural condtion  
+   _____________                                  Crop Variety Register     
+80 
+ 10.2 Varieties under production 
+10.2.1. Variety:    Kumsa [BKFM 0063 (1)] 
+10.2.1.1. Year of release:   2019 
+10.2.1.2. Breeder/Maintainer:  Shire-MaitsebribARC 
+     (TARI)  
+ 
+10.2.2. Variety:    Jabi (ጃቢ) (PGRC/E 
+Acc. 229626 
+10.2.2.1. Year of release:   2019 
+10.2.2.2. Breeder/Maintainer:  Adet ARC/ARARI 
+10.2.3. Variety:    Tekeze-1 
+(SMARC collL.60) 
+10.2.3.1. Year of release:   2018 
+10.2.3.2. Breeder/Maintainer:  Shire-MaitsebribARC 
+     (TARI)  
+ 
+10.2.4. Variety:    Diga-2 (Acc.BKFM0010) 
+10.2.4.1. Year of release:   2018 
+10.2.4.2. Breeder/Maintainer:  Bako ARC/ORARI 
+10.2.5. Variety:    Bako-09 (Acc.214995) 
+10.2.5.1. Year of release:   2017 
+10.2.5.2. Breeder/Maintainer:  Bako ARC/ORARI 
+10.2.6. Variety:    መባ (GBK- 011119A) 
+10.2.6.1. Year of release:   2016 
+10.2.6.2. Breeder/Maintainer:  Melkassa ARC/EIAR 
+ 
+10.2.7. Variety:    አክሱም (ACC #229355) 
+10.2.7.1. Year of release:   2016 
+10.2.7.2. Breeder/maintainer:  Melkassa ARC/EIAR 
+ 
+10.2.8.   Variety:    Diga-1 (ACC. 216036) 
+10.2.8.1. Year of release:   2016 
+10.2.8.2. Breeder/Maintainer:  BakoARC (OARI) 
+ 
+80 81
+************************ 16
+  _____________                                  Crop Variety Register     
+87 
+ 13. Food barley (Hordeum vulgare) 
+ 
+Barley belongs to the genus Hordeum L. in the tribe Triticeae of the 
+family Poaceae. The earliest cultivation of barley is believed to have 
+begun some 8,000 to 10,000 years ago in the area of the Middle East 
+known as the Fertile Crescent. The crop is now grown worldwide with 
+greater concentration in temperate areas and high altitudes of the 
+tropics and subtropics. The greatest diversity of barley in terms of 
+morphological types, genetic races, disease-resistant lines, and endemic 
+morphotypes exists in Ethiopia. 
+ 
+Barley has been produced in Ethiopia, since ancient times. Barley is 
+one of the most important staple food crops in the highlands of 
+Ethiopia.  It has great importance in social and food habit of the people. 
+Both food and malting barley are produced in the country. At the 
+national level in 2019/20 cropping season, 950,742.01 ha of land is 
+covered by food and malt barley and over 23,780,102.92 quintals are 
+produced. It is used to prepare various types of food and local and 
+industrial beverages.  
+ 
+Barley is cropped twice a year. The main season, locally known as 
+Meher, relies on June to September rainfall. The major barley 
+producing regions are Oromiya, Amhara, Tigray, and Southern 
+Nations, which account for about 99.5% of the total annual barley 
+production. Currently, barley grain is used for the preparation of 
+different foodstuffs, such as injera, porridge, kolo, and local drinks, 
+such as tela, horde, and beer. The straw is used as animal feed, 
+especially during the dry season. It is also useful for thatching roofs 
+and as bedding.  
+     
+ 
+    _____________                                  Crop Variety Register     
+88 
+ 13.1 New varieties 
+13.1.1. Variety name: Negele (LMON IBYT-MRA 12-11) 
+13.1.2.1. Agronomic and morphological characteristics  
+ Adaptation Areas:  Low land Areas of Arsi,  
+West Arsi and Similar areas 
+o Altitude (m.a.s.l): 1500-2400 
+oRainfall(mm): >500
+o Soil type:  Well drained reddish brown 
+  Seed rate(kg/ha):  125 
+  Planting date :   Mid June to early July  
+  Fertilizer rate (kg/ha): 
+o N:   18 
+o P 2O5:   46 
+  Days to heading :  58 
+  Days to maturity :  98 
+  Plant height (cm) :  74 
+  Growth habit:   Erect  
+ 1000 seed weight(gm):  43.7 
+ Seed  color:   Cream white 
+  Row type :   Six row 
+ Crop pest reaction:* 
+  Yield (qt/ha); 
+o Research field :  19.19 (in serious moisture 
+   stress condition) 
+54.35 (optimum moisture) 
+o Farmer‟s field:  - 
+13.1.2.2. Year of release:   2020 
+13.1.2.3. Breeder/maintainer:  Kulumsa ARC/EIAR 
+ *Resistant to scald and net blotch 
+ 
+ 
+88 89
+************************ 17
+  _____________                                  Crop Variety Register     
+95 
+ 14. Malt barley (Hordeum distichon.) 
+ 
+Malt barley is characterized as two-rowed and six rowed barley in 
+which only the middle spiklet of each three produces seed, the other 
+two being sterile or male. Malt is the major (90%) raw material for beer 
+production. Modern malting in Ethiopia started in 1974 at St. George 
+brewery. Assela Malt factory was established in 1984 with the aim of 
+supplying malt to local breweries.  
+ 
+Malting is a process in which the grain is germinated and the very 
+young seedlings are then dried to produce malt for brewing beer. Malt 
+contains enzymes, which converts starch to fermentable sugars. A by-
+product of brewing is yeast, which is used in baking and for the 
+production of vitamin-rich yeast extracts. 
+ 
+Arsi and Bale are the major producing regions of malt barley. 
+Highlands of Shewa and similar areas are also producing larger 
+quantities of malt barley.  As the crop has been cultivated since ancient 
+times many types of varieties are produced in our country. Malt barley 
+has double purposes in Ethiopia; it is used for food (bread, and several 
+traditional dishes) and also for malting. Consequently, there are 
+different competing alternative channels for the crop making it 
+sustainable source of income for smallholder farmers in the country.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   _____________                                  Crop Variety Register     
+96 
+ 14. 1 New Variety 
+14.1.1. Variety name: Iftuu (Mn Brite) 
+14.1.1.1. Agronomic and morphological characteristics  
+ Adaptation Areas:  High land Areas of Arsi,  
+Central Shoa and Similar 
+areas  
+o Altitude (m.a.s.l): 2300-2800 
+o Rainfall(mm):  >700 
+ Seed rate(kg/ha):  100 
+  Planting date :   Mid  June  to end July 
+  Fertilizer rate (kg/ha):  As per recommendation to 
+    the specific growing areas 
+    with due consideration to 
+    Nitrogen fertilization not to 
+    increase the grain protein 
+    above 11.5% 
+ Days to heading :  80 
+ Days to maturity :  143 
+ Plant height (cm) :  97.7 
+ Growth habit:   Erect type 
+ Seed  color:   Cream white 
+ Row type:   Two-row 
+ Crop pest reaction:* 
+ Grain and malt quality 
+o Protein (%):  10.32 
+o Extract(%):  80.82 
+o HLW (kg/hl):  - 
+o Screening Recovery 
+(%) = (2.5 +2.8)2.2mm: -  
+ 1000 kernel weight(g):  51 
+  Yield (qt/ha); 
+o Research field :  49.38- 64.65 
+o Farmer‟s field:  - 
+14.1.1.2. Year of release:   2020 
+14.1.1.3. Breeder/maintainer:  Kulumsa ARC/EIAR 
+  * Resistant to Scald and net blotch 
+ 
+ 
+96 97
+************************ 18
+19
+
+Process finished with exit code 0

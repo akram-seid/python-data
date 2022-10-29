@@ -1,0 +1,43 @@
+{
+  "Variety name": "Marara [ETSL 101371 (Acc.212642)]",
+  "Agronomic and morphological characteristics": {
+    "Adaptation area": {
+      "place": " Western Oromia (Bako, Gute, Uke, Billo Bosh and similar agroecologies",
+      "Altitude": {
+        "max": "1200",
+        "min": "1950"
+      },
+      "Rainfall": {
+        "max": "950",
+        "min": "1250"
+      }
+    },
+    "Seed rate": "12",
+    "Spacing": "75 between rows and 15 between plants",
+    "Planting date": "early to mid may",
+    "Fertilizer rate": {
+      "NPS": "100 all at planting",
+      "Urea": "100 Split Application (half at planting , half 35 days after emergence)"
+    },
+    "Days to flowering": "99",
+    "Days to maturity": "156",
+    "Plant height(cm)": "366.5",
+    "1000 seed weight (g)": "26.5",
+    "Seed color": "Red",
+    "Growth habit": "Erect",
+    "Panicle type": " Semi compact",
+    "Crop pest reaction": "Tolerant to major sorghum diseases (Leaf, Head disease), Tolerant to Bird attack",
+    "Grain yield (qt/ha)": {
+      "Research station": {
+        "min": "46",
+        "max": "53.5"
+      },
+      "Farmers' field": {
+        "min": "39",
+        "max": "51"
+      }
+    }
+  },
+  "Year of release": "2020",
+  "Breeder/ maintainer": "Bako ARC/ORARI/"
+}
