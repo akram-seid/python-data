@@ -1,4 +1,5 @@
-adaptation areaseed rate
+adaptation area
+seed rate
 spacing
 fertilizer rate
 date of maturity
