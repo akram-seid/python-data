@@ -1,0 +1,31 @@
+adaptation area
+seed rate
+spacing
+planting method
+days to heading
+days to maturity
+panicle length
+100 seed weight
+plant height
+caryopsis color
+lemma color
+anther color
+growth habit
+panicle form
+crop pest reaction
+grain yield
+fertilizer rate
+year of release
+breeder / maintainer
+planting date
+seed color
+flower color
+panicle color
+ear type
+1000 kernel weight
+hectoliters weight
+grain color
+quality data
+1000 seed weight
+quality data
+special merit

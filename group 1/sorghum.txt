@@ -1,0 +1,18 @@
+adaptation area
+seed rate
+spacing
+planting date
+fertilizer rate
+days to flowering
+days to maturity
+plant height
+1000 seed weight
+seed color
+growth habit
+panicle type
+grain yield
+year of release
+breeder / maintainer
+days to heading
+inflorescence compactness and shape
+crop pest reaction

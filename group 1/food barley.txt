@@ -1,0 +1,16 @@
+adaptation arearainfall
+soil type
+seed rate
+planting date
+fertilizer rate
+days to heading
+days to maturity
+plant height
+growth habit
+1000 seed weight
+seed color
+row type
+crop pest reaction
+yield
+year of release
+breeder / maintainer

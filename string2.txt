@@ -28,11 +28,7 @@ Tolerant to Bird attack
 o Research station: 46-53.5
 o Farmers‟ field:  39-51
 9.1.1.2. Year of release:   2020
-9.1.1.3. Breeder/ maintainer:  Bako ARC/ORARI/
-
-
-
-68 69
+9.1.1.3. Breeder/ maintainer:  Bako ARC/ORARI/68 69
 ************************ 0
   _____________                                  Crop Variety Register
 69
@@ -98,13 +94,7 @@ o Farmers‟ field:  48.3
 9.1.3.2. Year of release:   2020
 9.1.3.3. Breeder/ maintainer:  Haro sebu ARC/ORARI
 * Tolerant to major pest of sorghum (Stem borer,  Anthracnose
-     leaf blight, leaf spot, die back etc.
-
-
-
-
-
-70 71
+     leaf blight, leaf spot, die back etc.70 71
 ************************ 1
   _____________                                  Crop Variety Register
 79
@@ -140,9 +130,7 @@ srand
 o Research field: 28-38
 o Farmers‟ field: 25.5- 30
 10.1.1.2. Year of release:   2020
-10.1.1.3. Breeder/Maintainer:  Pawe ARC/EIAR/
-
-*Resistant to Blast diseases under natural condtion
+10.1.1.3. Breeder/Maintainer:  Pawe ARC/EIAR/*Resistant to Blast diseases under natural condtion
    _____________                                  Crop Variety Register
 80
  10.2 Varieties under production
@@ -159,9 +147,7 @@ Acc. 229626
 (SMARC collL.60)
 10.2.3.1. Year of release:   2018
 10.2.3.2. Breeder/Maintainer:  Shire-MaitsebribARC
-     (TARI)
-
-10.2.4. Variety:    Diga-2 (Acc.BKFM0010)
+     (TARI)10.2.4. Variety:    Diga-2 (Acc.BKFM0010)
 10.2.4.1. Year of release:   2018
 10.2.4.2. Breeder/Maintainer:  Bako ARC/ORARI
 10.2.5. Variety:    Bako-09 (Acc.214995)
@@ -169,41 +155,29 @@ Acc. 229626
 10.2.5.2. Breeder/Maintainer:  Bako ARC/ORARI
 10.2.6. Variety:    መባ (GBK- 011119A)
 10.2.6.1. Year of release:   2016
-10.2.6.2. Breeder/Maintainer:  Melkassa ARC/EIAR
-
-10.2.7. Variety:    አክሱም (ACC #229355) 
+10.2.6.2. Breeder/Maintainer:  Melkassa ARC/EIAR10.2.7. Variety:    አክሱም (ACC #229355) 
 10.2.7.1. Year of release:   2016
-10.2.7.2. Breeder/maintainer:  Melkassa ARC/EIAR
-
-10.2.8.   Variety:    Diga-1 (ACC. 216036)
+10.2.7.2. Breeder/maintainer:  Melkassa ARC/EIAR10.2.8.   Variety:    Diga-1 (ACC. 216036)
 10.2.8.1. Year of release:   2016
-10.2.8.2. Breeder/Maintainer:  BakoARC (OARI)
-
-80 81
+10.2.8.2. Breeder/Maintainer:  BakoARC (OARI)80 81
 ************************ 2
   _____________                                  Crop Variety Register
 87
- 13. Food barley (Hordeum vulgare)
-
-Barley belongs to the genus Hordeum L. in the tribe Triticeae of the
+ 13. Food barley (Hordeum vulgare)Barley belongs to the genus Hordeum L. in the tribe Triticeae of the
 family Poaceae. The earliest cultivation of barley is believed to have
 begun some 8,000 to 10,000 years ago in the area of the Middle East
 known as the Fertile Crescent. The crop is now grown worldwide with
 greater concentration in temperate areas and high altitudes of the
 tropics and subtropics. The greatest diversity of barley in terms of
 morphological types, genetic races, disease-resistant lines, and endemic
-morphotypes exists in Ethiopia.
-
-Barley has been produced in Ethiopia, since ancient times. Barley is
+morphotypes exists in Ethiopia.Barley has been produced in Ethiopia, since ancient times. Barley is
 one of the most important staple food crops in the highlands of
 Ethiopia.  It has great importance in social and food habit of the people.
 Both food and malting barley are produced in the country. At the
 national level in 2019/20 cropping season, 950,742.01 ha of land is
 covered by food and malt barley and over 23,780,102.92 quintals are
 produced. It is used to prepare various types of food and local and
-industrial beverages.
-
-Barley is cropped twice a year. The main season, locally known as
+industrial beverages.Barley is cropped twice a year. The main season, locally known as
 Meher, relies on June to September rainfall. The major barley
 producing regions are Oromiya, Amhara, Tigray, and Southern
 Nations, which account for about 99.5% of the total annual barley
@@ -212,8 +186,6 @@ different foodstuffs, such as injera, porridge, kolo, and local drinks,
 such as tela, horde, and beer. The straw is used as animal feed,
 especially during the dry season. It is also useful for thatching roofs
 and as bedding.
-
-
     _____________                                  Crop Variety Register
 88
  13.1 New varieties
@@ -251,22 +223,16 @@ o Farmer‟s field:  -
 ************************ 3
   _____________                                  Crop Variety Register
 95
- 14. Malt barley (Hordeum distichon.)
-
-Malt barley is characterized as two-rowed and six rowed barley in
+ 14. Malt barley (Hordeum distichon.)Malt barley is characterized as two-rowed and six rowed barley in
 which only the middle spiklet of each three produces seed, the other
 two being sterile or male. Malt is the major (90%) raw material for beer
 production. Modern malting in Ethiopia started in 1974 at St. George
 brewery. Assela Malt factory was established in 1984 with the aim of
-supplying malt to local breweries.
-
-Malting is a process in which the grain is germinated and the very
+supplying malt to local breweries.Malting is a process in which the grain is germinated and the very
 young seedlings are then dried to produce malt for brewing beer. Malt
 contains enzymes, which converts starch to fermentable sugars. A by-
 product of brewing is yeast, which is used in baking and for the
-production of vitamin-rich yeast extracts.
-
-Arsi and Bale are the major producing regions of malt barley.
+production of vitamin-rich yeast extracts.Arsi and Bale are the major producing regions of malt barley.
 Highlands of Shewa and similar areas are also producing larger
 quantities of malt barley.  As the crop has been cultivated since ancient
 times many types of varieties are produced in our country. Malt barley
@@ -274,20 +240,6 @@ has double purposes in Ethiopia; it is used for food (bread, and several
 traditional dishes) and also for malting. Consequently, there are
 different competing alternative channels for the crop making it
 sustainable source of income for smallholder farmers in the country.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
    _____________                                  Crop Variety Register
 96
  14. 1 New Variety
@@ -326,8 +278,6 @@ o Farmer‟s field:  -
 14.1.1.2. Year of release:   2020
 14.1.1.3. Breeder/maintainer:  Kulumsa ARC/EIAR
   * Resistant to Scald and net blotch
-
-
 96 97
 ************************ 4
   _____________                                  Crop Variety Register
@@ -365,50 +315,30 @@ o Farmers‟ field :  22-35
 * Moderately resistant to root rot and chocolate spot rust.
    _____________                                  Crop Variety Register
 104
- 1.2 Varieties under production
-
-1.2.1    Variety:    EH011088-3
+ 1.2 Varieties under production1.2.1    Variety:    EH011088-3
 Moybon (ሞይቦን)
 1.2.1.1 Year of Release:    2019
-1.2.1.2 Breeder/Maintainer:   Sinana ARC/ORARI
-
-1.2.2    Variety:    EH00021-1 Tosha (ቶሻ)
+1.2.1.2 Breeder/Maintainer:   Sinana ARC/ORARI1.2.2    Variety:    EH00021-1 Tosha (ቶሻ)
 1.2.2.1 Year of Release:    2019
-1.2.2.2 Breeder/Maintainer:   Sinana ARC/ORARI
-
-1.2.3    Variety:    Mugulat
+1.2.2.2 Breeder/Maintainer:   Sinana ARC/ORARI1.2.3    Variety:    Mugulat
      (Sell.98Lat.11135)
 1.2.3.1 Year of Release:    2017
-1.2.3.2 Breeder/Maintainer:   Mekelle ARC/TRARI
-
-1.2.4    Variety:    Alloshe (አሎሼ)
+1.2.3.2 Breeder/Maintainer:   Mekelle ARC/TRARI1.2.4    Variety:    Alloshe (አሎሼ)
 (EH03043-1)
 1.2.4.1 Year of Release:    2017
-1.2.4.2 Breeder/Maintainer:   Sinana ARC/ORARI
-
-1.2.5    Variety:    Numan (ኑማን) EH 06007-2
+1.2.4.2 Breeder/Maintainer:   Sinana ARC/ORARI1.2.5    Variety:    Numan (ኑማን) EH 06007-2
 1.2.5.1 Year of Release:    2016
-1.2.5.2 Breeder/Maintainer:   KARC/EIAR
-
-1.2.6    Variety:    ASHEBEKA (አሸበቃ)
+1.2.5.2 Breeder/Maintainer:   KARC/EIAR1.2.6    Variety:    ASHEBEKA (አሸበቃ)
 (EH01075-4)
 1.2.6.1 Year of Release:    2015
-1.2.6.2 Breeder/Maintainer:   KARC/EIAR
-
-1.2.7    Variety:    HASHENGE (ILB 4358
+1.2.6.2 Breeder/Maintainer:   KARC/EIAR1.2.7    Variety:    HASHENGE (ILB 4358
 1.2.7.1 Year of release:   2015
 1.2.7.2 Breeder/Maintainer:  Alamata ARC/TARI
-
-
-
-
 104 105
 ************************ 5
   _____________                                  Crop Variety Register
 117
- 4. Chickpea (Cicer arietinum)
-
-Chickpea was first produced in the Middle East about 7, 000 years ago.
+ 4. Chickpea (Cicer arietinum)Chickpea was first produced in the Middle East about 7, 000 years ago.
 At present, it is produced in over 40 countries represented in all
 continents. However, the most important chickpea producing countries
 are India, Turkey, Pakistan, Iran, Mexico, Australia, Ethiopia,
@@ -418,9 +348,7 @@ finding of chickpea is reported in 1520 BC. Ethiopia is the largest
 producer of chickpea in Africa accounting for about 46% of the
 continent‟s production during 1994-2006. It is also the seventh largest
 producer worldwide and contributes about 2% to the total world
-chickpea production
-
-There are two types of chickpea produced globally, namely desi and
+chickpea productionThere are two types of chickpea produced globally, namely desi and
 kabuli chickpeas. Kabuli chickpeas have a larger cream-colored seed
 with a thin seed coat whereas the desi type has a smaller, reddish
 brown-colored seed with a thick seed coat. On average, world
@@ -431,9 +359,7 @@ desi types have pink flowers while the Kabuli types are characterized
 by white flowers. It is grown at the end of the main rainy season using
 residual soil moisture. This allows farmers to practice double cropping,
 which in turn increases productivity of scarce land resource and serves
-as an additional source of income.
-
-Chickpea is one of the major highland pulse crop widely grown in the
+as an additional source of income.Chickpea is one of the major highland pulse crop widely grown in the
 highland and semi-highland regions of Ethiopia mainly on clay soil and
 fixes atmospheric nitrogen in soils and thus improves soil fertility and
 saves fertilizer costs in subsequent crops. In 2019/20 cropping season,
@@ -483,9 +409,7 @@ o Farmers‟ field  10-14
 ************************ 6
   _____________                                  Crop Variety Register
 123
- 5. Cowpea (Vigna ungulculata.)
-
-Cowpea has been cultivated for many centuries in the developing world
+ 5. Cowpea (Vigna ungulculata.)Cowpea has been cultivated for many centuries in the developing world
 and well adapted to the stressful growing condition of the tropics and
 has excellent nutritional qualities. It is a grain legume, which can be
 grown in relatively infertile sandy soils with a minimum annual rainfall
@@ -494,32 +418,16 @@ improves soil fertility by fixing atmospheric nitrogen. Cowpea grain
 typically contains 230-250g/kg crude protein (CP) and 500-670 g/kg
 starch on a dry matter (DM) basis and cowpea forage, i.e. the crop
 residue after harvesting grain, 210g CP and 600g digestible dry matter
-per kg DM.
-
-The forage is used as a ruminant feed by smallholder farmers in West
+per kg DM.The forage is used as a ruminant feed by smallholder farmers in West
 Africa, Asia and South America and therefore offers potential for use
 in the drier regions of Ethiopia. Under such conditions cowpea forage
 is usually superior to other forage legumes in terms of both quantity
 and quality. Cowpea crop is grown as a green manure and also a cover
-crop to increase soil fertility, retain moisture and reduce soil erosion.
-
-Cowpea is primarily used in the form of dry seed cooked as a pulse in a
+crop to increase soil fertility, retain moisture and reduce soil erosion.Cowpea is primarily used in the form of dry seed cooked as a pulse in a
 large variety of dishes.  Green beans or cut green pods used as a
 vegetable are of secondary importance.  In some areas of semi humid
 tropics the cowpea provides more than half the plant protein in human
 diets. Sometimes cowpea is also grown for forage and as a cover crop.
-
-
-
-
-
-
-
-
-
-
-
-
    _____________                                  Crop Variety Register
 124
  5.1 New varieties
@@ -598,49 +506,21 @@ o Research field  17.8-30
 o Farmers‟ field  16-23
 5.1.2.2 Year of release    2020
 5.1.2.3 Breeder/ Maintainer:  Melkassa ARC (EIAR)
-* Resistance to bacterial blight diseases
-
-   _____________                                  Crop Variety Register
+* Resistance to bacterial blight diseases   _____________                                  Crop Variety Register
 126
- 5.2 Varieties under production
-
-5.2.1    Variety: Keti (IT99K-1122)
+ 5.2 Varieties under production5.2.1    Variety: Keti (IT99K-1122)
 5.2.1.1 Year of release:   2012
-5.2.1.2 Breeder/ Maintainer:  MARC /EIAR
-
-5.2.2    Variety:    82D-889
+5.2.1.2 Breeder/ Maintainer:  MARC /EIAR5.2.2    Variety:    82D-889
 5.2.2.1 Year of release:   2008
-5.2.2.2 Breeder/ Maintainer:  MARC /EIAR
-
-5.2.3    Variety:          Bole (85D-3517-2)
+5.2.2.2 Breeder/ Maintainer:  MARC /EIAR5.2.3    Variety:          Bole (85D-3517-2)
 5.2.3.1 Year of Release:    2006
-5.2.3.2 Breeder/ Maintainer:   MARC /EIAR
-
-5.2.4    Variety:          IT (98k-131-2)
+5.2.3.2 Breeder/ Maintainer:   MARC /EIAR5.2.4    Variety:          IT (98k-131-2)
 5.2.4.1 Year of Release:    2006
-5.2.4.2 Breeder/ Maintainer:   AwARC/SRARI
-
-5.2.5    Variety:          Asrat (ITS 92KD-279-3)
+5.2.4.2 Breeder/ Maintainer:   AwARC/SRARI5.2.5    Variety:          Asrat (ITS 92KD-279-3)
 5.2.5.1 Year of Release:    2001
-5.2.5.2 Breeder/ Maintainer:  SRARC/ARARI
-
-5.2.6    Variety:          Bekur (838 689 4)
+5.2.5.2 Breeder/ Maintainer:  SRARC/ARARI5.2.6    Variety:          Bekur (838 689 4)
 5.2.6.1 Year of Release:   2001
-5.2.6.2 Breeder/ Maintainer:  SRARC/ARARI
-
-
-
-
-
-
-
-
-
-
-
-
-
-126 127
+5.2.6.2 Breeder/ Maintainer:  SRARC/ARARI126 127
 ************************ 8
   _____________                                  Crop Variety Register
 131
@@ -682,51 +562,33 @@ o Farmers‟ field  10-24
 7.1.1.3 Breeder/ Maintainer:  Haramaya University
 * Resistant to Rust, Anthracnose, Halo blight, CBB and ALS   _____________                                  Crop Variety Register
 132
- 7.2 Varieties under production
-
-7.2.1. Variety:     Haro Sabu-1 (SCR33)
+ 7.2 Varieties under production7.2.1. Variety:     Haro Sabu-1 (SCR33)
 Small Red Bean
 7.2.1.1 Year of release: 2019
-7.2.1.2 Breeder/Maintainer:    Haro Sabu ARC/ORARI
-
-7.2.2. Variety:     (Dumala) /ዱማል/ DAB-437
+7.2.1.2 Breeder/Maintainer:    Haro Sabu ARC/ORARI7.2.2. Variety:     (Dumala) /ዱማል/ DAB-437
      Speckled bean
 7.2.2.1 Year of release:   2019
-7.2.2.2 Breeder/Maintainer:  Sinana ARC/ORARI
-
-7.2.3. Variety:    (Hundaf) (ሁንዳፍ) DAB 277
+7.2.2.2 Breeder/Maintainer:  Sinana ARC/ORARI7.2.3. Variety:    (Hundaf) (ሁንዳፍ) DAB 277
      Red Mottled
 7.2.3.1. Year of release:   2019
-7.2.3.2. Breeder/Maintainer:    Sinana ARC/ORARI
-
-7.2.4. Variety:     NUA 517 (Keye Bure
+7.2.3.2. Breeder/Maintainer:    Sinana ARC/ORARI7.2.4. Variety:     NUA 517 (Keye Bure
 Metene) Large mottled
 7.2.4.1 Year of release:   2019
-7.2.4.2 Breeder/Maintainer:    Melkassa ARC/EIAR/
-
-7.2.5. Variety:     SCR15 (Keyyo)
+7.2.4.2 Breeder/Maintainer:    Melkassa ARC/EIAR/7.2.5. Variety:     SCR15 (Keyyo)
      Small Red Bean
 7.2.5.1 Year of release:   2019
-7.2.5.2 Breeder/Maintainer:  Melkassa ARC/EIAR/
-
-7.2.6. Variety:    SCN-11 (Awash Tikure)
+7.2.5.2 Breeder/Maintainer:  Melkassa ARC/EIAR/7.2.6. Variety:    SCN-11 (Awash Tikure)
      Small black bean
 7.2.6.1. Year of release:   2019
-7.2.6.2. Breeder/Maintainer:    Melkassa ARC/EIAR/
-
-7.2.7. Variety:    RAZ-42 (Nekeze ayfere)
+7.2.6.2. Breeder/Maintainer:    Melkassa ARC/EIAR/7.2.7. Variety:    RAZ-42 (Nekeze ayfere)
      Small white bean
 7.2.7.1. Year of release:   2019
 7.2.7.2. Breeder/Maintainer:  Melkassa ARC/EIRA
-
-
 132 133
 ************************ 9
   _____________                                  Crop Variety Register
 141
- 8. Soybean (Glycine max)
-
-Soybean (U.S.) or soya bean (UK) (Glycine max) is a species of
+ 8. Soybean (Glycine max)Soybean (U.S.) or soya bean (UK) (Glycine max) is a species of
 legume native to East Asia. The plant is classed as an oilseed and
 pulse. Fat-free (defatted) soybean meal is a primary, low-cost, source
 of protein for animal feeds and most prepackaged meals; soy vegetable
@@ -734,23 +596,17 @@ oil is another valuable product of processing the soybean crop.
 Soybeans can produce at least twice as much protein per hectare as any
 other major vegetable or grain crop, 5 to 10 times more protein per acre
 than land set aside for grazing animals to make milk, and up to 15
-times more protein per acre than land set aside for meat production
-
-Soybean is an internationally known important pulse crop. It is used for
+times more protein per acre than land set aside for meat productionSoybean is an internationally known important pulse crop. It is used for
 different purposes. In the 2019/20 cropping season, this crop covers
 about 54,543.26 hectares of land with an estimated production not less
 than 1,256,232.03 quintals. Since the oil content is high (16% and
 above) it is used for edible oil production. The by-product is cheap and
 an important source of protein for both human consumption & animal
-feed. It can also be used as Soya milk and Soya meat.
-
-In Ethiopia FAFA Food Factory has imported and used soybeans to
+feed. It can also be used as Soya milk and Soya meat.In Ethiopia FAFA Food Factory has imported and used soybeans to
 prepare balanced food for infants and adults. Recently the factory is
 trying to improve the food value of other food types by mixing with
 Soya bean flour. This indicates that the importance of Soybean in the
-market is increasing gradually.
-
-   _____________                                  Crop Variety Register
+market is increasing gradually.   _____________                                  Crop Variety Register
 142
  8.1   New varieties
 8.1.1. Varety name:  Pawe-78 (Tgx-1990-21F)
@@ -867,8 +723,6 @@ o Farmers field:  15-24
 8.1.3.2 Year of release/register:  2020
 8.1.3.3 Breeder/Maintainer:  Bako ARC/ ORARI
 * Tolerant to Bacterial blightfrog Bacterial pustule and rust
-
-
 144 145
 ************************ 11
   _____________                                  Crop Variety Register
@@ -907,9 +761,7 @@ o Research field:  18-24
 o Farmers field:  15-19
 8.1.4.2 Year of release/register:  2020
 8.1.4.3 Breeder/Maintainer:  Bako ARC/ ORARI
-* Tolerant to Bacterial blight, frog Bacterial pustule and rust
-
-   _____________                                  Crop Variety Register
+* Tolerant to Bacterial blight, frog Bacterial pustule and rust   _____________                                  Crop Variety Register
 146
  8.1.5. Varety name: Melko Bonsa -1 (JM-CLK/CRFD-15-SD)
 8.1.5.1. Agronomic and morphological characteristics
@@ -946,15 +798,11 @@ o Research field: 25-35
 o Farmers field: 18-25
 8.1.5.2 Year of release/register:  2020
 8.1.5.3 Breeder/Maintainer:  Jimma ARC/EIAR
-* Tolerant to soybean rust, bacterial blight, bacterial pustule
-
-146 147
+* Tolerant to soybean rust, bacterial blight, bacterial pustule146 147
 ************************ 12
   _____________                                  Crop Variety Register
 175
- 6. Sunflower (Helianthus annuus)
-
-Sunflower is native to the Central America. The evidence thus far is
+ 6. Sunflower (Helianthus annuus)Sunflower is native to the Central America. The evidence thus far is
 that it was first domesticated in Mesoamerica, present day Mexico,
 about 2600 BC. Sunflower belongs to the family Compositae. It is an
 annual, erect and an herbaceous plant growing to a height of 1.5 to 6.0
@@ -962,9 +810,7 @@ meters. The crop requires a cool climate during germination and
 seedling growth. Seedlings tolerate frosts moderately well until they
 reach the four to six leaf stage of development. Sunflower can be
 grown on a wide range of soils and tolerates a moderate pH range and
-some salinity.
-
-Sunflower oil, extracted from the seeds, is used for cooking, as carrier
+some salinity.Sunflower oil, extracted from the seeds, is used for cooking, as carrier
 oil and to produce margarine and bio-diesel, as it is cheaper than olive
 oil. A range of sunflower varieties exist with differing fatty acid
 compositions; some 'high oleic' types contain a higher level of healthy
@@ -972,28 +818,14 @@ monounsaturated fats in their oil than even olive oil. Sunflower oil is
 also a rich source (64%) of linoleic acid, which helps in washing out
 cholesterol deposition in the coronary arteries of the heart and good for
 heart patients. One of the most common and severe diseases of
-sunflower is rust caused by Puccinia helianthi.
-
-Some recently developed cultivars have drooping heads. These
+sunflower is rust caused by Puccinia helianthi.Some recently developed cultivars have drooping heads. These
 cultivars are less attractive to gardeners growing the flowers as
 ornamental plants, but appeal to farmers, because they reduce bird
-damage and losses from some plant diseases.
-
-According to Central Statistics Agency 2019/20 report, the total area
+damage and losses from some plant diseases.According to Central Statistics Agency 2019/20 report, the total area
 under production was 7,560.56 hectares and the production was
-estimated to be over 95,707.49 quintals.
-
-
-
-
-
-
-
-   _____________                                  Crop Variety Register
+estimated to be over 95,707.49 quintals.   _____________                                  Crop Variety Register
 176
- 6.1 New varieties
-
-6.1.1. Variety name: Uke - PAN7057
+ 6.1 New varieties6.1.1. Variety name: Uke - PAN7057
 6.1.1.1. Agronomic and morphological characters
  Adaption area:   Holleta,Bir, Ayehu, Ambo,
     D/Zeit, Finoteselam,
@@ -1022,21 +854,11 @@ o Research field:  27
 o Farmers field:  21
 6.1.1.2 Year of registration:  2020
 6.1.1.3 Breeder/ Maintainer:  Corteva/Pioneer Hi -Bred
-Seeds Ethiopia
-
-
-
-
-
-176 177
+Seeds Ethiopia176 177
 ************************ 13
   _____________                                  Crop Variety Register
 187
- Group IV. Tubers, Roots and Vegetables
-
-1. Irish potato (Solanum tuberosum)
-
-The potato is one of mankind's most valuable food crops. In volume of
+ Group IV. Tubers, Roots and Vegetables1. Irish potato (Solanum tuberosum)The potato is one of mankind's most valuable food crops. In volume of
 production it ranks fourth in the world after maize, rice, and wheat.
 Among root crops, potato ranks first in volume produced and
 consumed, followed by cassava, sweet potato, and yam. The relatively
@@ -1045,9 +867,7 @@ excellent energy source for human consumption. The tuber is known to
 supply carbohydrate, high quality protein, and a substantial amount of
 essential vitamins, minerals, and trace elements. Potato is said to be
 one of the most efficient crops in converting natural resources, labor,
-and capital into a high quality food with wide consumer acceptance.
-
-The cultivated potato belongs to the family Solanaceae; it is originated
+and capital into a high quality food with wide consumer acceptance.The cultivated potato belongs to the family Solanaceae; it is originated
 in the high lands of South America and was first cultivated in the
 vicinity of lake Titicaca near the border of Peru and Bolivia. It was
 introduced to Ethiopia in 1858 and since then it has become an
@@ -1058,18 +878,12 @@ located at an altitude of 1800-2500 m.a.s.l and receives an annual rain
 fall of more than 600 mm, which is suitable for potato production.
 However, in 2019/20 Meher cropping season, the total area under
 production reaches 70,362.22 hectares and the production is estimated
-to be 9,245,283.61 quintals.
-
-A number of production problems that account for the small area
+to be 9,245,283.61 quintals.A number of production problems that account for the small area
 cropped with potato and the low national yield have been identified.
 The major ones are the concentration of potato cultivation in the
 highlands, unavailability and high cost of seed tubers, non optimal
 agronomic practices, the prevalence of diseases and insect pests, and
-inadequate storage, transportation, and marketing facilities.
-
-
-
-   _____________                                  Crop Variety Register
+inadequate storage, transportation, and marketing facilities.   _____________                                  Crop Variety Register
 188
  1.1 New Variety:
 1.1.1 Variety name:  Feyissa (CIP-395017.242)
@@ -1106,9 +920,7 @@ o Research field:  384.2
 o Farmer field:  -
 1.1.1.2 Year of release:   2020
 1.1.1.3 Breeder/Maintainer: Holeta ARC/ EIAR
-*Moderately tolerant to LB with two sprays
-
-188 189
+*Moderately tolerant to LB with two sprays188 189
 ************************ 14
   _____________                                  Crop Variety Register
 189
@@ -1147,9 +959,7 @@ o N:   110
 o Research field:  307.7
 o Farmer field:  -
 1.1.2.2 Year of release:   2020
-1.1.2.3   Breeder/Maintainer:  Holeta ARC/ EIAR
-
-   _____________                                  Crop Variety Register
+1.1.2.3   Breeder/Maintainer:  Holeta ARC/ EIAR   _____________                                  Crop Variety Register
 190
  1.1.3 Variety name: Wabi  (CIP-84866-5)
 1.1.3.1 Agronomic and Morphological Characteristics
@@ -1183,11 +993,7 @@ o Research field:  440-475.2
 o Farmer field:  310- 358.5
 1.1.3.2 Year of release:   2020
 1.1.3.3   Breeder/Maintainer:   Sinna ARC/ORARI
-* Tolerant to late blight diseases
-
-
-
-190 191
+* Tolerant to late blight diseases190 191
 ************************ 15
   _____________                                  Crop Variety Register
 207
@@ -1215,17 +1021,13 @@ popular & important vegetables for fresh consumption as well as for
 processing.  The plant requires a warm & dry climate. The optimum
 mean day temperature for growth of tomato lies between 21oC and
 26oC and temperature above 32oC during fruit development inhibit the
-formation of red color.
-
-Tomato should be cultivated at an altitude below 2000 m. preferably;
+formation of red color.Tomato should be cultivated at an altitude below 2000 m. preferably;
 soils for tomato cultivation are loamy sand to silt loam. The
 requirement on the organic matter content of the soil is not so high, but
 soils with medium organic matter (OM) content have better yields than
 soils with a low OM content. Good soil drainage is important.
 Optimum pH range is from 5.5 to 7.0. The first fruits are produced 80-
-100 days from transplanting.
-
-During 2019/20 Meher cropping season, the total area under production
+100 days from transplanting.During 2019/20 Meher cropping season, the total area under production
 reaches 6,012.28 ha and the production is estimated to be over
 349,472.59 quintals.   _____________                                  Crop Variety Register
 208

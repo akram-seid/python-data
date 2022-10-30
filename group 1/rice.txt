@@ -1,0 +1,23 @@
+adaptation area
+seed rate
+spacing
+planting date
+fertilizer rate
+days to heading
+days to maturity
+panicle length
+plant height
+thresh ability
+lodging incident
+shattering
+seed size
+growth habit
+no. of grains per panicle
+1000 seed weight
+caryopsis color
+year of release
+breeder / maintainer
+grain yield
+lodging tolerance
+cold tolerance
+crop pest reaction

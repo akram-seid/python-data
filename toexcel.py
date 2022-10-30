@@ -1,8 +1,6 @@
 import sys
 from openpyxl import load_workbook
-import os
-
-book = load_workbook("Book1.xlsx")
+import osbook = load_workbook("Book1.xlsx")
 ws = book.worksheets[0]
 count = 0
 for cell in ws["C"]:
@@ -10,9 +8,7 @@ for cell in ws["C"]:
         break
     else:
         count = cell.row + 1
-print(count)
-
-with open("string.txt", "r") as fi:
+print(count)with open("string.txt", "r") as fi:
     variety_txt = []
     release = []
     maintainer = []
@@ -30,8 +26,6 @@ with open("string.txt", "r") as fi:
 for i in range(len(variety_txt)):
     print(variety_txt[i])
 '''
-
-
 def save(variety_par):
     for ix in range(len(variety_par)):
         if 'variety' in variety_par[ix]:
@@ -42,6 +36,4 @@ def save(variety_par):
             ws.cell(row=count, column=3).value = variety_par[ix]
     book.save("Book1.xlsx")
     os.execv(sys.argv[0], sys.argv)
-
-
 save(variety_txt)

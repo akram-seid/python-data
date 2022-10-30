@@ -1,0 +1,18 @@
+adaptation area
+seed rate
+spacing
+fertilizer rate
+planting season
+type
+days to bulb maturity
+plant height
+bulb diameter
+bulb size
+bulb length
+bulb color
+bulb flesh color
+pungency
+bulb quality / acceptability
+crop pest reaction
+yield
+year of registration

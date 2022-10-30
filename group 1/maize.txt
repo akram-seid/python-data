@@ -1,0 +1,26 @@
+adaptation area
+seed rate
+planting method
+fertilizer rate
+days to anthesis
+days to silking
+days to maturity
+1000 kernel weight
+plant height
+seed color
+pollen color
+grain type
+grain size
+crop pest reaction
+yield
+year of release
+breeder /maintainer
+male flowering
+female flowering
+ear height
+silk color
+kernel row arrangement
+ear number of row of grains
+spacing
+total sugar % (fresh)
+total sugar % (dry)

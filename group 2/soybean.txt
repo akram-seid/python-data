@@ -1,0 +1,27 @@
+adaptation area
+seed rate
+planting date
+fertilizer rate
+spacing
+days to 50% flowering
+days to 95% maturity
+plant height
+growth habit
+seed coat color
+seed shape
+pubescence color
+hilum color
+flower color
+leaf shape
+100 seed weight
+oil content
+protein content
+maturity group
+disease reaction
+yield
+year of release
+breeder / maintainer
+seed size
+sead coat luster
+number of pods plant-1
+number of seeds pod-1

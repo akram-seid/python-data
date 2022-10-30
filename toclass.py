@@ -14,7 +14,5 @@ with open("string2.txt", "r") as fi:
         row2 = variety_txt[j].split(":")
         if row2[0].strip(" ") not in fields:
             fields.append(row2[0].strip(" "))
-
-
 for i in range(len(fields)):
     print(fields[i])

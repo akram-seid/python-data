@@ -1,0 +1,22 @@
+adaptation area
+seed rate
+spacing
+fertilizer rate
+planting date
+days to maturity
+seedling vigor
+growth habit
+flower color
+fruit length
+fruit width
+number of fruit per plant
+average fruit weight
+fruit color
+fruit surface
+flesh color
+fruit shape
+leaf color
+outstanding values
+crop pest reaction
+year of released
+breeder / maintaoner

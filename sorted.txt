@@ -57,5 +57,3 @@ thresh ability
 total sugar % (dry)
 total sugar % (fresh)
 yield (qt/ha)
-
-

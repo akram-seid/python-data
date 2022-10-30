@@ -1,0 +1,18 @@
+adaptation area
+seed rate
+spacing
+planting date
+fertilizer rate
+days to heading
+days to maturity
+1000 seed weight
+plant height
+finger length
+finger per ear
+finger type
+seed color
+growth habit
+crop pest reaction
+yield
+year of release
+breeder / maintainer

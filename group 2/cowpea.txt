@@ -1,0 +1,19 @@
+adaptation area
+seed rate
+planting date
+fertilizer rate
+days to flowering
+days to maturity
+plant height
+growth habit
+1000 seed weight
+seed color
+flower color
+number of seeds per pod
+number of pods per plant
+cooking quality
+crop pest reaction
+yield
+year of release
+breeder / maintainer
+spacing

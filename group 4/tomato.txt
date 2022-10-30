@@ -1,0 +1,23 @@
+adaptation area
+seed rate
+spacing
+fertilizer rate
+leaf coverage
+leaf color
+leaf size
+days to maturity
+growth habit
+stem strength
+fruit number per cluster
+fruit shape
+fruit size
+cracks
+color before maturity
+color of ripen fruit skin
+color of fruit flesh
+fruit firmness
+shelf life
+fruit quality
+crop pest reaction
+yield
+year of registration

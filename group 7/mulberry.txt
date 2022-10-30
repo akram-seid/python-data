@@ -1,0 +1,14 @@
+adaptation area
+seed rate
+spacing
+fertilizer rate
+planting date
+soil condition
+growth habit
+leaves
+utilization information
+quality parameters
+yield
+leaf yield
+year of release
+breeder / maintainer

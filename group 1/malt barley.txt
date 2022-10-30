@@ -1,0 +1,15 @@
+adaptation area
+seed rate
+planting date
+fertilizer rate
+days to heading
+days to maturity
+plant height
+growth habit
+seed color
+row type
+crop pest reaction
+grain malt quality
+1000 kernel weight
+year of release
+breeder / maintainer
