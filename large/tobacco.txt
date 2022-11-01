@@ -1,0 +1,18 @@
+adaptation area
+seed rate
+spacing
+fertilizer rate
+date of maturity
+plant height
+green leaf weight
+fresh to dry leaf ratio
+leaf number / plant
+average leaf width
+average leaf length
+stem width
+average leaf area
+crop pest reaction
+leaf quality parameters
+yield
+year of registration
+breeder / maintainer

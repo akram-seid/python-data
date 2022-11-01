@@ -1,0 +1,19 @@
+adaptation area
+seed rate
+spacing
+fertilizer rate
+leaf shape
+leaf lobe number
+flower petal color
+boll bearing habit
+boll prominence of habit
+tip
+plant height
+plant growth habit
+average boll weight
+ginning out turn
+fiber quality parameters
+fiber strength
+yield
+year of registration
+breeder / maintainer

@@ -1,0 +1,9 @@
+adaptation area
+breeder / maintainer
+fertilizer rate
+flower color
+plant height
+planting date
+seed rate
+year of release
+yield

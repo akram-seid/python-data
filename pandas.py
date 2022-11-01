@@ -1,5 +1,2 @@
-import pandas as pd
-
-df = pd.read_csv("hello.csv")
+import pandas as pddf = pd.read_csv("hello.csv")
 df
-

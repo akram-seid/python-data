@@ -1,0 +1,8 @@
+adaptation area
+breeder / maintainer
+fertilizer rate
+planting date
+seed rate
+spacing
+year of release
+yield

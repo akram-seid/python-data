@@ -1,0 +1,12 @@
+adaptation area
+breeder / maintainer
+crop pest reaction
+days to heading
+days to maturity
+fertilizer rate
+growth habit
+plant height
+planting date
+seed color
+seed rate
+year of release
